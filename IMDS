@@ -13,7 +13,7 @@ https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/index_720_a
 
                 
 #EXTINF:0 tvg-logo="https://goo.gl/V1ELgY" group-title="DOCUMENTARIOS",ANIMAL PLANET 
-http://load.kudaplay.tv:8080/SD_ANIMAL_PLANET/video.m3u8?token=196f85d51be786b027b8f9514087aee8
+
 
                         
 
@@ -26,8 +26,24 @@ http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://goo.gl/rjQu2h" group-title="TV ABERTA",APARECIDA CÂMERA
+#EXTINF:0 tvg-logo="https://goo.gl/rjQu2h" group-title="TV ABERTA",APARECIDA ALTAR CENTRAL
 http://caikrondatacenter.com.br:1935/santuario_aparecida/canal5.stream/playlist.m3u8?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/rjQu2h" group-title="TV ABERTA",CAPELA DO SANTISSIMO
+http://caikrondatacenter.com.br:1935/santuario_aparecida/canal3.stream/live.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/rjQu2h" group-title="TV ABERTA",CAPELA SAO JOSE
+http://caikrondatacenter.com.br:1935/santuario_aparecida/canal4.stream/live.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/rjQu2h" group-title="TV ABERTA",NICHO
+http://caikrondatacenter.com.br:1935/santuario_aparecida/canal2.stream/live.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/rjQu2h" group-title="TV ABERTA",VISAO EXTERNA
+http://69.46.0.170:1935/santuario_aparecida/canal6.stream/live.m3u8
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/Z8b7Kv" group-title="FILMES",AXN
@@ -315,73 +331,6 @@ http://78.129.184.15:7314/streaming/viva/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/x33MwPN.png" group-title="DESENHOS",RETRÔ CARTOONS
 http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
-
-
-
-
-
-#################################NOVELA PEGA-PEGA#################################################
-
-#EXTINF:0 tvg-logo="https://goo.gl/WC7GAC" group-title="NOVELA PEGA-PEGA",EP 05/10/2017
-http://videos.osemanario.com/videos/05-10-17/PP%20051017%20capitulo%20104.mp4
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/WC7GAC" group-title="NOVELA PEGA-PEGA",EP 04/10/2017
-http://videos.osemanario.com/videos/04-10-17/PP%20041017%20capitulo%20103.mp4
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/WC7GAC" group-title="NOVELA PEGA-PEGA",EP 03/10/2017
-http://videos.osemanario.com/videos/03-10-17/PP%20031017%20capitulo%20102.mp4
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/WC7GAC" group-title="NOVELA PEGA-PEGA",EP 02/10/2017
-http://video.tanoar.eu/videos/02-10-17/PP%20021017%20capitulo%20101.mp4
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/WC7GAC" group-title="NOVELA PEGA-PEGA",
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/WC7GAC" group-title="NOVELA PEGA-PEGA",
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/WC7GAC" group-title="NOVELA PEGA-PEGA",
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/WC7GAC" group-title="NOVELA PEGA-PEGA",
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/WC7GAC" group-title="NOVELA PEGA-PEGA",
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/WC7GAC" group-title="NOVELA PEGA-PEGA",
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/WC7GAC" group-title="NOVELA PEGA-PEGA",
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/WC7GAC" group-title="NOVELA PEGA-PEGA",
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/WC7GAC" group-title="NOVELA PEGA-PEGA",
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/WC7GAC" group-title="NOVELA PEGA-PEGA",
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/WC7GAC" group-title="NOVELA PEGA-PEGA",
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/WC7GAC" group-title="NOVELA PEGA-PEGA",
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/WC7GAC" group-title="NOVELA PEGA-PEGA",
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/WC7GAC" group-title="NOVELA PEGA-PEGA",
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/WC7GAC" group-title="NOVELA PEGA-PEGA",
-
 
 
 
@@ -779,24 +728,29 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FRIDTTS1.mp4
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FRIDTTS2.mp4?STANIPTV
 
 
-#EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
+#EXTINF:0 tvg-logo="http://i.imgur.com/UIJROXV.jpg" group-title="LANÇAMENTOS",ASSASIN'S CREED
+http://s.netcine.tv/netcine-bucket/filmes2016/ASSADUB-ALTO.mp4?STANIPTV
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/CJxbCs" group-title="LANÇAMENTOS",BREAKING BAD(FILME)
+http://s.netcine.tv/netcine-bucket/filmes2016/BRELEG-ALTO.mp4?STANIPTV
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/371G3HL.png" group-title="LANÇAMENTOS",HOMEM DE FERRO
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HMNDEFRO01.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/1Zg8Usi.png" group-title="LANÇAMENTOS",HOMEM DE FERRO 2
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HMNDEFRO02.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/5evQd6b.jpg" group-title="LANÇAMENTOS",HOMEM DE FERRO 3
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HMNDEFRO03.mp4
 
 
 #EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
 
 
-#EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
-
-
-#EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
-
-
-#EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
-
-
-#EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
-
-
 #EXTINF:0 tvg-logo="" group-title="",
 
 
@@ -840,562 +794,1252 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FRIDTTS2.mp4?STANIP
 
 
 
-
-############################UMA FAMÍLIA DA PESADA#################################
-
+############################LUCIFER#################################
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",1x1 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=23cbb36923fb04e1
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER",LUCIFER T01|EP01
+http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP01.mp4
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",1x2 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=d60ff1b5241018f4
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER",LUCIFER T01|EP02
+http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP02.mp4
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",1x3 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=07b83ce68cf55fa2
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER",LUCIFER T01|EP03
+http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP03.mp4
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",1x4 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=109a30bf53cb3650
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER",LUCIFER T01|EP04
+http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP04.mp4
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",1x5 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=1d9d32ed47373605
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" ,LUCIFER T01|EP05
+http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP05.mp4
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",1x6 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=932ef994a78ea0eb
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" ,LUCIFER T01|EP06
+http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP06.mp4
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",1x7 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=a822573221427c43
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" ,LUCIFER T01|EP07
+http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP07.mp4
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",2x1 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=984a0bed53ab278b
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",2x2 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=b0e9dc0ad5e58087
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",2x3 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=238e2b7c16715161
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",2x4 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=e65eff5bec8992f9
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",2x5 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=5e4f1eeca3bc8610
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",2x6 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=b5f53aa9433fc278
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",2x7 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=91199612dd494a06
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",2x8 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=76c609e37056be8d
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",2x9 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=faa5991bf184bcc3
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",2x10 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=cceae8d4e3fb5437
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",2x11 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=89a4aaf916bf46b8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",2x12 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=f50baab861d0d770
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",2x13 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=12c0dc9eb3f917d8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",2x14 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=48f6f308fb522c4a
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",2x15 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=446818d98f2a8ecd
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",2x16 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=279f2e1c775e9264
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",2x17 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=f66c767e6e619014
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",2x18 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=5a4125e85802eeb1
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",2x19 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=16f8980475bd9e01
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",2x20 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=f1284b648ee32ac7
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",2x21 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=4701d73c9bd5495c
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",3x1 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=5c94e177a1a842c2
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",3x2 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=8d0f474543b7f2c
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",3x3 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=ae11b3ef2c9d2b00
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",3x4 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=fac70cbcf8f9b17f
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",3x5 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=71cbbdbf05aa4f7e
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",3x6 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=6c63eda5a4167431
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",3x7 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=8a80f6c92285bcf
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",3x8 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=3184dc6579678702
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",3x9 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=20272e84733512bf
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",3x10 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=ea01a601ca7f99e5
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",3x11 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=1fae9fcd51b553c7
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",3x12 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=53e6ca1e34277f4d
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",3x13 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=c8a91984101b50b
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",3x14 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=25d23764ef79a098
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",3x15 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=e458b8d4c907b454
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",3x16 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=9f543caf859bfd2
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",3x17 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=479b9a62129a7e59
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",3x18 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=f37009f837fd6bb0
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",3x19 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=41f66ce71f5fcf65
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",3x20 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=78cf6ca49c421f3b
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",3x21 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=28b676e4536ddb07
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",3x22 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=80da8ce7adebe9f3
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" ,LUCIFER T01|EP08
+http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP08.mp4
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",4x1 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=dbd7fd651bf2807e
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",4x2 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=aff9a770347a84b1
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",4x3 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=3f0043f6a244110c
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",4x4 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=779c0bd11a151ab4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",4x5 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=6932efa897cd8f85
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",4x6 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=fc513d0bbb901e40
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",4x7 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=4d25faab64666019
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",4x8 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=b1e85140992c8d33
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",4x9 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=d2fed0d774347510
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",4x10 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=2f308396f9f778e2
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",4x11 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=f8ed8d502aed29b3
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",4x12 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=abad116b675df6b9
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",4x13 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=5b561453e89c1b42
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",4x14 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=830efca852495e4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",4x15 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=c1ef60df2938e95a
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",4x16 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=f0db2d17e0bdc7fa
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",4x17 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=337b8415a180564a
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",4x18 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=39210c440e8f7e7a
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",4x19 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=4f4a24f61816e896
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",4x20 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=c71fed6377d643f4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",4x21 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=5e471c72a7f14733
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",4x22 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=5bfba94d915d3a2b
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",4x23 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=4fd69496ff2063f4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",4x24 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=430b3e11dcf12a09
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",4x25 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=188d499a26737e7a
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",4x26 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=1e3c6bb62e1c6972
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",4x27 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=6896503b777e32d3
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",4x28 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=a1551c148ed18249
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",4x29 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=d79b57ee3bc4d755
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",5x1 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=4f88c74894ab14d4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",5x2 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=3d84a377d07cf71a
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",5x3 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=2a11ae74e255a381
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",5x4 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=d60e3aaf279d8993
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",5x5 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=939ad673f38b7fd4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",5x6 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=62bb25f79868788c
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",5x7 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=e87902c76b597e42
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",5x8 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=285c387cd3b71107
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",5x9 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=bf57fd86df7d84ca
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",5x10 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=ecc68eba9dda673c
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",5x11 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=81ec841f89d530ec
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",5x12 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=f81afbbd3bc9ac
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",5x13 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=5a1f304289c76e31
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",5x14 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=110858187507ab5d
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",5x15 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=68612156229c45fe
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",5x16 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=84955416283e1be0
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",5x17 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=5461bed7c25d9721
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",5x18 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=1ae2b35705ac9384
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",6x1 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=3e9d89d1c6805a2a
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",6x2 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=760329d3ad729e
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",6x3 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=8abfa11d6477d63e
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",6x4 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=9f1e49f7906a3387
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",6x5 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=6b8e4c636f5809fb
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",6x6 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=baca2473dea7375b
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",6x7 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=38737b27c6e9c1ee
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",6x8 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=ee8be4070dc199de
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",6x9 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=2faa42883f1e63d2
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",6x10 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=c9e4e0f3696a628a
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",6x11 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=45327ebbc9549a3a
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",6x12 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=2f9003056eb981a4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",7x1 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=9c24e5b64963826
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",7x2 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=4ca3e573f0a4d160
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",7x3 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=5853a6706600b9ba
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",7x4 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=8d6a80a697fda000
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",7x5 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=b91a1cb797cf434e
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",7x6 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=ee8914163c0a8a10
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",7x7 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=638cc415ef1c1421
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",7x8 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=ddbc0387238d9702
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",7x9 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=3ac0330c618b9578
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",7x10 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=b8420db283068997
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",7x11 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=5a961b56764576c4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",7x12 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=a1fcd15f2f0cf568
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",7x13 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=fe80f7e754c21613
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",7x14 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=fcef98b818ebdce8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",7x15 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=7dd62e0c64b3b66
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",7x16 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=bc056f0fa2e78531
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",8x1 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=6e77172d7869ebb6
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",8x2 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=e467ea51a07a7272
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",8x3 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=d99703ced73dcf03
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",8x4 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=9aebc234a37402a8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",8x5 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=fecb79291d09e216
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",8x6 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=c4100088c51548e3
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",8x7 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=34e32478e58a2ff1
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",8x8 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=5138559e694ecadd
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",8x9 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=5e012cf422904334
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",8x10 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=3a4e31e3022e9e80
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",8x11 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=ed13c5304e58ac9f
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",8x12 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=cf6f2d3096d01e2d
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",8x13 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=e0e29c71ee50702e
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",8x14 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=ade92effcb3101fb
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",8x15 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=807945386b1bf1b9
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",8x16 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=c5d75bdab7de3dfa
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",8x17 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=6062f0b1cfbe26da
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",8x18 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=749f404f00133ba4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",8x19 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=9c6cc0670e9ac039
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",8x20 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=3538ccf31376dbf
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",9x1 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=844c72d14b4846a0
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",9x2 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=f9560c1f9634e563
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",9x3 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=b5cbc0592646c971
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",9x4 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=97ffa952b5b442c
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",9x5 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=cba521cf34b2d722
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",9x6 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=e9fd2eecf0de051a
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",9x7 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=cf0f5ec37ff9a9fa
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",9x8 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=7313047389c3adc8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",9x9 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=565f09d2c200c328
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",9x10 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=cb2657bd6ac9bd98
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",9x11 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=bf605ab427495e56
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",9x12 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=e98bf60151705100
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",9x13 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=7d6564096222576c
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",9x14 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=e499635eae791b87
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",9x15 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=a960d3793c235cd1
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",9x16 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=c87d7b6ef5f569f3
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",9x17 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=f0c937c8c66aabf2
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",9x18 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=2c8377374b7602e2
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",10x1 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=c46d5fcfd9be0685
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",10x2 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=f91420ae10e9a8f5
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",10x3 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=abee65cbed30a351
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",10x4 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=5d6e62a95b3b2bf3
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",10x5 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=59d90ba0ecfd788f
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",10x6 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=be8866a2b814ec7b
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",10x7 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=7e6108f916a74a76
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",10x8 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=eecea6c60197c90b
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",10x9 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=b13834265a08c558
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",10x10 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=5476e69484784277
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",10x11 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=ed07cd4d25963efd
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",11x1 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=5d9042d6a5cd5cb3
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",11x2 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=fc4a9e26d72b7d40
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",11x3 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=21bf922fd14e3ffb
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",11x4 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=9fcdad90598cdfdf
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",11x5 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=8277042f9afb3337
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",11x6 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=5f102a00bb6a2ac5
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",11x7 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=1bd8da46a5b94a01
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",11x8 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=a1ffa508b0cc261b
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",11x9 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=f14ba1a87a61f71c
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",11x10 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=3286bef4f6013f03
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",11x11 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=e6c36e5270bc6c17
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",11x12 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=db9b3b93e528d1b9
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",11x13 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=376d13793b19e
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",11x14 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=bc51b7043aa422bd
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",11x15 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=ffcdf060a61ece5e
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",11x16 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=fea9133d5612d36e
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",11x17 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=2d0e6761ca06d544
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",11x18 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=5f4217e9bdb7920c
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",11x19 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=cfd010ba0b73623a
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",11x20 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=429dbc0f82f2efcc
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",11x21 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=3fd3c5b15ed82e56
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",11x22 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=e8badd8e83ae4cd1
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",12x1 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=2272c0bdaa84723c
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",12x2 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=fac034fa57ff0ece
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",12x3 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=4d5f6ad6b2c5b2f8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",12x4 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=1542a9a396b297b6
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",12x5 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=b42395680af9879c
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",12x6 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=2adb940fff66e353
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",12x7 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=b0d172896876af2b
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",12x8 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=c12fa4c875683ae8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",12x9 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=f0acf8d108d55f69
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",12x10 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=4edbf3af36b57f2f
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",12x11 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=c91508d5bffa7f73
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",12x12 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=9674b08ab8673628
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",12x13 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=4529080fa34e2d62
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",12x14 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=4bd9f84989f98219
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",12x15 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=3da49067cda4f790
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",12x16 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=b6f7764e62b2b84f
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",12x17 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=6fa51af7f8aa6bf7
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",12x18 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=e02c3b9d5ea3bf16
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",12x19 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=a796396ba512fa36
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",12x20 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=b90b146c22692be6
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",12x21 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=9064c0e887b510fc
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",13x1 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=9cc1971044c281e2
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",13x2 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=f8215f7a0d88a443
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",13x3 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=e6f4ee6552ec3b17
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",13x4 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=cb557be3ea8b0ba3
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",13x5 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=f549ecdfa5e12afe
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",13x6 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=67a03f35be3de51a
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",13x7 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=49d65f2c5281125f
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",13x8 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=307b56837be5099
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",13x9 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=3f8420f6a79aa43c
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",13x10 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=96f7a55f47c73aeb
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",13x11 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=9153c281c507a919
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",13x12 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=bc22c1df96e678c1
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",13x13 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=4ba959aa2bf6b1d
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",13x14 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=7f1576c639b9c9be
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",13x15 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=32e9fe924d7e20ab
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",13x16 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=e9a1d9140b7cb8d3
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",13x17 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=3507cf57872362d9
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",13x18 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=1f7889ecd1f866a8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",14x1 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=d872b1cb87d2036b
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",14x2 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=b3d5037d1eb44dd7
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",14x3 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=9da48d86687d4053
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",14x4 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=ad6edc81fa08331f
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",14x5 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=c3fb418ace392c8f
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",14x6 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=2a0255384f930bab
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",14x7 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=d14f6bc434588030
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",14x8 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=54131e6d7676569b
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",14x9 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=5f360ac32db7ddaa
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",14x10 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=8bb155c9fa3e9bd8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",14x11 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=ea6ae1ce7ea35cb0
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",14x12 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=746db1b13e47e40a
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",14x13 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=d8c8b0668cedee73
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",14x14 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=8897b4ed158374fc
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",14x15 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=5746877cd15f6f6c
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",14x16 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=2d7eef0fe12d477a
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",14x17 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=fd5b7dda72158461
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",14x18 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=e829763707448ab8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",14x19 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=3b312de7d2e01484
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",14x20 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=47e033d15f90a19d
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",15x1 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=acf90c102e6f8e55&CompartilhandoIPTV
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",15x2 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=2ba3d5ec97aad441&CompartilhandoIPTV
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",15x3 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=5b17ffd8b8e97ee5&CompartilhandoIPTV
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",15x4 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=77d97e11b37a5057&CompartilhandoIPTV
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",15x5 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=e24a8015aea7b836&CompartilhandoIPTV
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",15x6 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=81a23250dff81be2&CompartilhandoIPTV
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",15x7 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=14cfaa561f838ed7&CompartilhandoIPTV
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",15x8 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=3ac27186cff53fc1&CompartilhandoIPTV
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",15x9 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=2ef115721a0b9aac&CompartilhandoIPTV
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",15x10 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=30941a289490d4e2&CompartilhandoIPTV
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",15x11 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=2e8d27b731dded5a&CompartilhandoIPTV
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tEmilXs.jpg" group-title="Uma Família da Pesada",15x12 Uma Família da Pesada
-http://www.blogger.com/video-play.mp4?contentId=d8a20bfa9bf5535a&CompartilhandoIPTV
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" ,LUCIFER T01|EP09
+http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP09.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" ,LUCIFER T01|EP10
+http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP10.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" ,LUCIFER T01|EP11
+http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP11.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" ,LUCIFER T01|EP12
+http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP12.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" ,LUCIFER T01|EP13
+http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP13.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" ,LUCIFER LEG T02|EP01
+http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LCFRS02EP01.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" ,LUCIFER LEG T02|EP02
+http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LCFRS02EP02.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" ,LUCIFER LEG T02|EP03
+http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LCFRS02EP03.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" ,LUCIFER LEG T02|EP04
+http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LCFRS02EP04.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" ,LUCIFER LEG T02|EP05
+http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LCFRS02EP05.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" ,LUCIFER LEG T02|EP06
+http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LCFRS02EP06.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" ,LUCIFER LEG T02|EP07
+http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LCFRS02EP07.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" ,LUCIFER LEG T02|EP08
+http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LCFRS02EP08.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" ,LUCIFER LEG T02|EP09
+http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LCFRS02EP09.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" ,LUCIFER LEG T02|EP10
+http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LCFRS02EP10.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" ,LUCIFER LEG T02|EP11
+http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LCFRS02EP11.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" ,LUCIFER LEG T02|EP12
+http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LCFRS02EP12.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" ,LUCIFER LEG T02|EP13
+http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LCFRS02EP13.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" ,LUCIFER LEG T02|EP14
+http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LCFRS02EP14.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" ,LUCIFER LEG T02|EP15
+http://zeus.netcine.tv/httpdelivery/lucifer/02leg/15-ALTO.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" ,LUCIFER LEG T02|EP16
+http://zeus.netcine.tv/httpdelivery/lucifer/02leg/16-ALTO.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" ,LUCIFER LEG T02|EP17
+http://zeus.netcine.tv/httpdelivery/lucifer/02leg/17-ALTO.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" ,LUCIFER LEG T02|EP18
+http://zeus.netcine.tv/httpdelivery/lucifer/02leg/18-ALTO.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" ,LUCIFER LEG T03|EP01
+http://zeus.netcine.tv/httpdelivery/lucifer/03leg/001-ALTO.mp4
+
+
+
+
+############################TOM E JERRY#################################
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",01 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=e84533815dfde25b&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",02 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=e073a97365930be4&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",03 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=151ab3da38513087&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",04 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=1fa74882d34d78e5&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",05 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=c738f33b73819030&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",06 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=8e8de4179352d17c&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",07 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=205342ce630bef77&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",08 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=7d2cb23dccc9835f&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",09 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=7e91217ceeea231b&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",10 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=b0a268b972233164&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",11 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=80edb954ff567d8&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",12 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=d8946ff50ffeb6f4&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",13 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=57de0771b971256f&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",14 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=de531796acd10d8&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",15 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=8dc0204f3af8ace4&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",16 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=f88dbdd2cdd2fa14&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",17 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=e4cdac6e43b232f5&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",18 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=52cdf80e5cca0a0d&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",19 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=bba7e9d8bac99584&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",20 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=6e66d02625b8b1ba&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",21 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=3b63ce23c223a43d&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",22 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=e78004d6dd6d35ce&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",23 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=d410b849217507e9&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",24 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=c5e70cb54ae07949&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",25 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=4b4cd36d8371395a&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",26 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=2c0afe97cb23758d&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",27 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=49301bcf68ae0a70&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",28 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=b547e3dc04793c5b&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",29 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=5fad48f225e63572&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",30 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=c5368cb9945b1d1e&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",31 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=aaf241407cc7c628&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",32 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=f0d0f458ca2e7813&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",33 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=d97f4c6a15b05e8b&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",34 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=5dbadd9b52039860&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",35 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=e808b2bab6d83a31&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",36 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=60d5bd394b98e954&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",37 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=13850b6e9e4bce1c&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",38 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=9517fbb43f656722&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",39 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=a6a311a897804ca6&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",40 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=ba2eec1e955c3239&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",41 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=788528094d7bc87a&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",42 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=679ffdae2f825e63&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",43 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=1b115b48fd9dc587&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",44 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=65ac22e4da701ef6&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",45 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=b33adeb7d62ada44&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",46 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=e2275edb24f2bb6f&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",47 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=45504355e53ff597&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",48 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=16aa02e77dcbe5b6&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",49 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=82a1d5b088c83cc5&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",50 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=bb8b571f3f3b497c&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",51 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=4579825f26d1176&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",52 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=b7f191ff4e09d62e&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",53 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=daf4c012d7ff1db9&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",54 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=f12fd8819f8681c1&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",55 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=5603738eb754fb64&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",56 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=fcfa530dfeecfcbb&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",57 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=11527e7549dc3b27&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",58 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=a09db05e54947304&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",59 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=8ea8f72691c5f01&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",60 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=6161ee810a47732a&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",61 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=be6dd82796c909b8&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",62 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=e9fdeccdf1e6b061&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",63 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=217930fc06d85eb6&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",64 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=4fee6bdc9223b3a0&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",65 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=c625817f99faeb24&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",66 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=de6a7e381abc9ae1&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",67 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=8dfc2d27220a13d8&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",68 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=de86e81e73845a05&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",69 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=c8b387a74b1c7257&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",70 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=67f59b535e87cd42&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",71 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=5b9330c671d0f4b7&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",72 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=610feeea71b300a8&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",73 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=4962940f941fedb9&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",74 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=b3d918d9de8db58e&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",75 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=8d443738eec25887&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",76 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=818f652ae63d491a&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",77 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=41a966de38ba0ed9&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",78 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=170a99ca4f7c7749&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",79 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=d055ee493a2a89c7&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",80 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=96e4bd405e425836&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",81 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=1a4c1e8393569948&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",82 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=369738b923c52bec&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",83 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=308aad333828f918&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",84 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=9c7563fa1ec391a0&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",85 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=cf57f588ebd9b2a2&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",86 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=9b8c647120f7c075&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",87 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=265a5b97f07431d9&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",88 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=fc643771cdbcf523&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",89 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=d46cd488cf860a16&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",90 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=d6bb71bb91c8f98a&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",91 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=54ddae8a10024401&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",92 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=e4da6ad90ee3e271&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",93 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=8a192114ac3b458&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",94 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=e78e0c8668db8704&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",95 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=b89fa3f3b97ca46d&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",96 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=c46972870ad82c30&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",97 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=8cabfad1cbf9b91&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",98 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=9f71fc740c673c5e&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",99 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=6d5328d172cf998c&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",100 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=5ca6ef665305738e&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",101 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=c6a16758d1c3cd72&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",102 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=fc297cc4bbba4d74&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",103 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=71d5462274a1fdcf&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",104 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=6b6a9a6b4667fc0&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",105 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=9ff0a6e8634c5009&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",106 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=de1c4419b9ed04ce&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",107 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=697ee42c2bb96c98&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",108 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=7c791e3c03eecf0c&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",109 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=e027e59090f07ed0&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",110 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=fd616b6b479583f0&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",111 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=ebf5131936d0c56a&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",112 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=f269143bbc3e801&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",113 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=3fa6a750242f91c2&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",114 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=c9c757c75bf5f942&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",115 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=a7dfc6cb69027c1&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",116 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=49493e4972354667&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",117 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=53f668cf0181fead&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",118 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=21a0cd23bc202981&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",119 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=c7829b68f1fa385d&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",120 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=3fc411cf161342f4&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",121 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=cc6f1d1c0d1c1ea9&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",122 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=3eeb4e25e1efc880&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",123 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=baf73aaecb9e1911&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",124 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=c803c20a891d867f&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",125 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=da34322ac3db5bf7&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",126 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=8cbdd20143e863d5&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",127 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=fa3ec3af530cdb8a&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",128 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=69b0e9b8323c365e&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",129 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=f8cdb6fb15cc17f2&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",130 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=adbbf035c8d44bb9&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",131 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=fcbf845ce1190aeb&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",132 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=a94fb9397188b954&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",133 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=589dbd23bb0e100e&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",134 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=8f935b54986427ef&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",135 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=bfc2ceb5dfbb2aa5&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",136 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=7e27ac4329ee7d2c&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",137 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=934130323a9b17cf&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",138 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=c04b27a6fed32259&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",139 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=460f847812ceb53a&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",140 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=36d6e7575e128795&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",141 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=52e82590077f8a30&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",142 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=75578ff1dbb18985&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",143 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=be764999bab1394d&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",144 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=45b8b989dc5d97cf&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",145 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=36142746883c46e8&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",146 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=6c4281a80cfe833d&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",147 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=daf4ec4cdf91206&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",148 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=b4bea8dfaf47c906&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",149 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=b9c1f908b688eba6&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",150 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=657f7cc370733912&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",151 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=73ed04c22e0a79ff&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",152 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=4198090576b1e6c&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",153 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=3e80e592e32450ad&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",154 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=258b562c81be9f2f&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",155 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=3cb3a88076b1958e&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",156 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=93ccf01717abee75&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",157 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=84fac8976a416e7e&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",158 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=de76d42bfd60a88f&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",159 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=65aaf0b96bbb5628&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",160 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=51528822d401e177&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",161 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=2da28662ba299995&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",162 Tom & Jerry
+http://www.blogger.com/video-play.mp4?contentId=a6c5692b88744723&CompartilhandoIPTV
+
+
+
+
+
+
+
+
+
+
+############################AVATAR#################################
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",01 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=e93be263fc536e6&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",02 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=b212023dd46b9826&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",03 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=54b3a90e66b71f73&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",04 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=8354f9f1968a082a&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",05 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=a388ca81c9f246b8&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",06 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=57c5090b48d4c205&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",07 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=5b875a56bacf812a&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",08 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=304b035d7d665ca9&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",09 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=cf23e9c8e8c43508&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",10 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=ae579a613ef2c0bf&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",11 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=87d7a7eebe97460f&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",12 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=b1b0b49eb53e6023&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",13 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=72941131422b0a71&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",14 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=dc8ce46c6aa41f1e&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",15 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=cccaab52127813f2&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",16 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=53274643ab21f4e7&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",17 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=b57243596c2f57bc&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",18 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=7b452894b31c6392&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",19 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=a9a535a632adb4b6&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",20 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=559da9c34f6e6cb9&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",21 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=9e393ba5ec3c1b33&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",22 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=2aaf1305741dcb0e&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",23 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=4dc3371003b076bf&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",24 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=cbbaab599807830e&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",25 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=b68f47f6ab75190e&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",26 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=7be17b4f75f3dd82&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",27 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=747174dd2386cf46&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",28 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=c24c54d38312ba61&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",29 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=2c963c7f9173c3c9&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",30 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=e1bcc67c298ee992&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",31 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=a158fa59f0b940b3&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",32 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=12a3cc507e33befa&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",33 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=2376636f6c7474e0&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",34 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=2a53db7c057401&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",35 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=1c4f8effd785c0fd&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",36 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=2f3c6fbce3d108da&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",37 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=e2e5489a7cc2a114&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",38 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=dcb3f8c3af761cb8&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",39 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=a9f56e94c9736a34&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",40 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=d81636c1a57da164&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",41 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=ea5848753a6c3a98&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",42 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=7babfcf55bc5f7e5&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",43 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=c2c5fd769bdb9f8a&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",44 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=8da2410ebc421ad4&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",45 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=1cb667d8c4b65542&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",46 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=42b77e74694eb361&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",47 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=d87f774c6acede06&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",48 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=4fe463147de561c6&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",49 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=5f01c624fa858bb6&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",50 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=31206b0a339274fd&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",51 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=b3deec37cbcaaebf&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",52 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=68dfcf19aa6b7de9&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",53 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=8a6866a1fd700252&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",54 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=4a6315a49cd16f98&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",55 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=6c71100102166ce0&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",56 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=aa7ef9a9811c0d76&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",57 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=239199944c351f09&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",58 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=10c7d0c865508240&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",59 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=d3106e8f17a685a7&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",60 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=76b514544e5972a5&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oBDEpbb.jpg" group-title="A Lenda de Aang",61 Avatar – A Lenda De Aang
+http://www.blogger.com/video-play.mp4?contentId=dfca762ec9ec919e&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",1x1 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=fa8a01f3a6a227f7&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",1x2 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=a2ee9773641a8b8e&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",1x3 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=3681d3e1da290970&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",1x4 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=26bd7d2687703e3d&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",1x5 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=8771bc0e20c06032&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",1x6 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=a34ee4d974bc0b&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",1x7 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=caade11e00b47828&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",1x8 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=a88515b4a19cadff&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",1x9 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=646f0427c2d2309a&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",1x10 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=93cb78873074d6d4&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",1x11 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=18317d9f3b26a056&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",1x12 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=94a6d7f9d0736f38&CompartilhandoIPTV
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",2x1 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=29b00be3b412fca4&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",2x2 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=4dea00df9d32b58b&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",2x3 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=9bb37ecffbec8df6&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",2x4 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=5441f4ce7b2a330b&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",2x5 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=579657ec6b808a4f&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",2x6 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=b4c0e71d65fb8fd4&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",2x7 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=3959f9c0bbaa1bba&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",2x8 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=9bbd67502f810d4b&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",2x9 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=6a1fa88edd106b15&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",2x10 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=1a17a04647d3cfa3&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",2x11 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=454ece396cf90aea&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",2x12 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=75f0c13ea2ae579c&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",2x13 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=56914247447a7ed&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",2x14 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=8d1cf720a977b66b&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",3x1 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=b3c9407491e01882&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",3x2 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=b1acf19f7a20f100&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",3x3 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=ef2966e1358961f5&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",3x4 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=c76fbebb64d792f5&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",3x5 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=51b1c326584b854a&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",3x6 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=689db32d6dfb3eaa&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",3x7 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=d1d764e0e7b2b1b8&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",3x8 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=6e94ecb0cff71950&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",3x9 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=ad76a0739497c58a&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",3x10 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=52fb9b1bc72500d8&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",3x11 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=66a69e7f6462bec1&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",3x12 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=1d705085205287f3&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",3x13 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=d9feeda52f2d4c11&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",4x1 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=c66fed6206c8930&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",4x2 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=6cea96e4ae2bd48b&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",4x3 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=a6571acb9a2af948&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",4x4 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=8e1e2a8329eabb53&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",4x5 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=457e57f20d204e41&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",4x6 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=d8adb864a2502525&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",4x7 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=3751e3d26c6b5f60&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",4x8 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=e4f0ef1c7185ab0a&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",4x9 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=fa42f59d79f6c302&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",4x10 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=f9b1606b9b32282a&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",4x11 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=402beffd9e10bd78&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",4x12 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=62444c52e85e73f5&CompartilhandoIPTV
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QZIwEu.png" group-title="A Lenda de Korra",4x13 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=13602c39d07f969c&CompartilhandoIPTV
 
 
 
@@ -2505,6 +3149,433 @@ http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/DBZEP291.mp4
 
 
 
+
+############################CORAGEM O CÃO COVARDE#################################
+
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",1 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=f9d0ae32e600619
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",2 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=7cb89889e8c876c8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",3 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=3dbec0d4090ce5cc
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",4 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=d3c19d30246928e9
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",5 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=794d65641b454958
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",6 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=771feb200f0e63a2
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",7 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=72e43348357b8b96
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",8 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=fea4cd516fe5abca
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",9 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=f085e9c581e04c29
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",10 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=81479c9b326246b2
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",11 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=88dedfb35020e96e
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",12 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=5d494e9ca67bbc48
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",13 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=bf5dcefb4d10d408
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",14 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=21f30cb5ec54b0f4
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",15 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=8bb99221b1bca2d9
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",16 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=77fc621589f5d06e
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",17 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=5400a8c10bb66831
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",18 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=330b8ba06a8bccb3
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",19 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=df8772340f128f53
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",20 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=d97fdafa62074f6a
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",21 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=5fb44735cc6ddfd4
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",22 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=cb2a4bffc419eae2
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",23 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=bad79044846eb242
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",24 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=f40927ce34de269a
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",25 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=75593607d2f28936
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",26 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=b422aef14dc366d0
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",27 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=1e88a5622a147e89
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",28 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=659a9661fec6523a
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",29 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=2bf095d878ffafe4
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",30 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=874d61455f800a08
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",31 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=24fb4a2cbb94efbe
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",32 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=9e9ea57b87b59c74
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",33 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=257af83b75c6a29e
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",34 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=47b749a072779fbb
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",35 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=91d6f606f9e96dbf
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",36 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=e106e0972190afd6
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",37 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=68d1240bcf9f9609
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",38 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=66038c97d1b735d9
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",39 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=2a7152fabe109bfb
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",40 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=bda3d45a9cd2b5fb
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",41 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=55bdd700905aea30
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",42 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=c2915707223c8c83
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",43 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=e310ba9adb3cc5bc
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",44 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=efcd8bdba940c80
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",45 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=4a88327fc3488c7d
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",46 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=bbca8959e0103625
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",47 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=155ff3251dbeec76
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",48 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=b3d6adc22a59a29b
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",49 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=477f1084017ac513
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",50 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=909c234733d7d214
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",51 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=6d48f004f6018ce3
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjE03z0.jpg" group-title="Coragem; o Cão Covarde",52 Coragem; o Cão Covarde
+http://www.blogger.com/video-play.mp4?contentId=4d945d5d5c912c32
+
+
+
+
+
+############################X-MEN EVOLUTION#################################
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",1 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=e6194540dc8215d6
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",2 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=bdf1c39c4ae11488
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",3 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=fa25f1c5d69a6a35
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",4 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=19925d51e2a1ef09
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",5 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=2d98b777e68f3051
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",6 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=68244269f9e11d9a
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",7 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=34ac0194506ce65b
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",8 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=ac6d56c11e60c50b
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",9 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=f1f6492fbd61d0fd
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",10 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=9a94e0bf2b324ede
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",11 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=2ea018691c4099af
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",12 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=954e1b2fd1be1ced
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",13 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=570c210b5a4e271c
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",14 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=e54a262e6c696259
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",15 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=ba9dd1726f93cfa6
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",16 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=ddef532c8f04a0ef
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",17 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=66562813a5d1a98c
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",18 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=d33f30a2871e0f27
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",19 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=f3255a7ec0897932
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",20 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=5134243680d508f2
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",21 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=6e7eadf411feee8b
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",22 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=88adca2c26e78cb5
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",23 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=77a5ef9f91c40a41
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",24 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=81ff14c45e6d5ee8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",25 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=4063032544c8e096
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",26 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=cc987a6fe31082c2
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",27 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=27d7668fcdf062d1
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",28 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=66aea3a9eaa5070c
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",29 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=c9082360e25b6651
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",30 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=a9a7114c8207454b
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",31 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=792cbac9bdfb6c51
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",32 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=c2b49b42160b5538
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",33 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=26c53e6026668bb8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",34 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=e8c3da9825897f45
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",35 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=a36965710af109cb
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",36 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=bcb263cc76c5f673
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",37 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=a8885d3e9f6bdf45
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",38 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=ca260d09ba756fd4
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",39 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=606259d3959fad54
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",40 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=4135e7ee9f1b7a08
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",41 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=d0105d92608de312
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",42 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=3d02bbfc2eb745a1
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",43 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=394a54f6f35ae7c1
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",44 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=d37580227f4a176c
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",45 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=f5c2c6760277cc91
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",46 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=62cbd528fbbc1aea
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",47 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=93dd990493efe16e
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",48 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=f5104c7c0fc33cd8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",49 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=e594567b74a5569e
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",50 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=a5ee5bee41c8da40
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",51 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=29e0493a2ccbfd8a
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7qJ3Gcy.jpg" group-title="X-Men Evolution",52 X-Men Evolution
+http://www.blogger.com/video-play.mp4?contentId=89f86f5a4bd501b8
 
 
 
