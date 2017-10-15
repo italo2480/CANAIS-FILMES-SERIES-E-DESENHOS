@@ -9,12 +9,10 @@ https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/index_480_a
 #EXTINF:0 tvg-logo="https://lut.im/xO3mLBpjYa/0OQb76WIZhMyay0R.jpeg" group-title="REALITY",A FAZENDA 24HRS 720p
 https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/index_720_av-p.m3u8?sd=10&rebase=on
 
-                                                                                                                                  
-
-        
+                                                                                                                                          
 #EXTINF:0 tvg-logo="https://goo.gl/V1ELgY" group-title="DOCUMENTARIOS",ANIMAL PLANET 
-http://vrzn-ei-ee.cdn.mdstrm.com:80/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?es=vrzn-ei-
-ee.cdn.mdstrm.com&proto=http
+http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/978.ts
+
 
                         
 
@@ -61,20 +59,24 @@ http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8?
 
 
 #EXTINF:0 tvg-logo="" group-title="DESENHOS",BOOMERANG
+http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/969.ts
 
 
 
 #EXTINF:0 tvg-logo="" group-title="INTERNACIONAL",BLOOMBERG
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?
-
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/Fy745S" group-title="TV ABERTA",CANÇÃO NOVA
 http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
 
 
+#EXTINF:0 tvg-logo="https://goo.gl/Fy745S" group-title="TV ABERTA",CANÇÃO NOVA HD
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
+
 
 #EXTINF:0 tvg-logo="" group-title="DESENHOS",CARTOON NETWORK HD
+http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/960.ts
 
 
 
@@ -142,7 +144,7 @@ http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/live.m3u8
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/3FzQfQ" group-title="TV ABERTA",GLOBO SP
-http://158.58.172.5:8081/look/sptvb/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/chunklist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/Jn2aAQ" group-title="NOTICIAS",GLOBO NEWS
@@ -183,7 +185,7 @@ http://158.58.172.5:8081/look/globonew/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/C63W6E" group-title="FILMES",MEGAPIX
-http://198.199.83.184:8081/msw24ha/playlist.m3u8
+
 
 
 
@@ -791,40 +793,37 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HMNDEFRO03.mp4
 
 #EXTINF:0 tvg-logo="" group-title="",
 
+############################NOVELA PEGA-PEGA#################################
 
 
-############################MINHAS SÉRIES#################################
+#EXTINF:0 tvg-logo="" group-title="NOVELA PEGA-PEGA",
 
 
+#EXTINF:0 tvg-logo="" group-title="NOVELA PEGA-PEGA",
 
 
+#EXTINF:0 tvg-logo="" group-title="NOVELA PEGA-PEGA",
 
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title="THE FLASH",THE FLASH S04E01
-http://zeus.netcine.tv/httpdelivery/theflash/04leg/01-ALTO.mp4
+#EXTINF:0 tvg-logo="" group-title="NOVELA PEGA-PEGA",
 
 
-#EXTINF:0 tvg-logo="https://goo.gl/V2UjX5" group-title="SUPERGIRL",SUPERGIRL S03E01
-http://zeus.netcine.tv/httpdelivery/supergirl/03leg/01-ALTO.mp4
-
-#EXTINF:0 tvg-logo="" group-title="",
+#EXTINF:0 tvg-logo="" group-title="NOVELA PEGA-PEGA",
 
 
-#EXTINF:0 tvg-logo="" group-title="",
+#EXTINF:0 tvg-logo="" group-title="NOVELA PEGA-PEGA",
 
 
-#EXTINF:0 tvg-logo="" group-title="",
+#EXTINF:0 tvg-logo="" group-title="NOVELA PEGA-PEGA",
 
 
-#EXTINF:0 tvg-logo="" group-title="",
+#EXTINF:0 tvg-logo="" group-title="NOVELA PEGA-PEGA",
 
 
-#EXTINF:0 tvg-logo="" group-title="",
+#EXTINF:0 tvg-logo="" group-title="NOVELA PEGA-PEGA",
 
 
-#EXTINF:0 tvg-logo="" group-title="",
-
-
+#EXTINF:0 tvg-logo="" group-title="NOVELA PEGA-PEGA",16/09/2017
 
 
 ############################LUCIFER#################################
@@ -6364,177 +6363,119 @@ http://www.blogger.com/video-play.mp4?contentId=5b9a618609a58daa&CompartilhandoI
 http://www.blogger.com/video-play.mp4?contentId=37ed602065ba8ecf&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",01 Drama Total - Luzes; 
-
-Drama; Ação
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",01 Drama Total - Luzes; Drama; Ação
 http://www.blogger.com/video-play.mp4?contentId=92d4fa69f42758e9&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",02 Drama Total - Luzes; 
-
-Drama; Ação
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",02 Drama Total - Luzes; Drama; Ação
 http://www.blogger.com/video-play.mp4?contentId=36fc4a64896af129&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",03 Drama Total - Luzes; 
-
-Drama; Ação
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",03 Drama Total - Luzes; Drama; Ação
 http://www.blogger.com/video-play.mp4?contentId=187b9827bb0cdae&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",04 Drama Total - Luzes; 
-
-Drama; Ação
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",04 Drama Total - Luzes; Drama; Ação
 http://www.blogger.com/video-play.mp4?contentId=b210e08d830a1c5e&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",05 Drama Total - Luzes; 
-
-Drama; Ação
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",05 Drama Total - Luzes; Drama; Ação
 http://www.blogger.com/video-play.mp4?contentId=26cfeb0bf5a1bb01&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",06 Drama Total - Luzes; 
-
-Drama; Ação
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",06 Drama Total - Luzes; Drama; Ação
 http://www.blogger.com/video-play.mp4?contentId=63ba82a3224b7062&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",07 Drama Total - Luzes; 
-
-Drama; Ação
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",07 Drama Total - Luzes; Drama; Ação
 http://www.blogger.com/video-play.mp4?contentId=e4d2ead396a8fd3c&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",08 Drama Total - Luzes; 
-
-Drama; Ação
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",08 Drama Total - Luzes; Drama; Ação
 http://www.blogger.com/video-play.mp4?contentId=de3d0ce71813f84a&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",09 Drama Total - Luzes; 
-
-Drama; Ação
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",09 Drama Total - Luzes; Drama; Ação
 http://www.blogger.com/video-play.mp4?contentId=e592c9728f1d5797&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",10 Drama Total - Luzes; 
-
-Drama; Ação
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",10 Drama Total - Luzes; Drama; Ação
 http://www.blogger.com/video-play.mp4?contentId=a1924db38b1100e5&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",11 Drama Total - Luzes; 
-
-Drama; Ação
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",11 Drama Total - Luzes; Drama; Ação
 http://www.blogger.com/video-play.mp4?contentId=5dc076581c0d44da&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",12 Drama Total - Luzes; 
-
-Drama; Ação
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",12 Drama Total - Luzes; Drama; Ação
 http://www.blogger.com/video-play.mp4?contentId=40816d8771698287&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",13 Drama Total - Luzes; 
-
-Drama; Ação
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",13 Drama Total - Luzes; Drama; Ação
 http://www.blogger.com/video-play.mp4?contentId=73c9ab37ffefba83&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",14 Drama Total - Luzes; 
-
-Drama; Ação
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",14 Drama Total - Luzes; Drama; Ação
 http://www.blogger.com/video-play.mp4?contentId=87c677c493054855&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",15 Drama Total - Luzes; 
-
-Drama; Ação
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",15 Drama Total - Luzes; Drama; Ação
 http://www.blogger.com/video-play.mp4?contentId=533bb7472f9c811d&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",16 Drama Total - Luzes; 
-
-Drama; Ação
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",16 Drama Total - Luzes; Drama; Ação
 http://www.blogger.com/video-play.mp4?contentId=f0477b87dde8298b&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",17 Drama Total - Luzes; 
-
-Drama; Ação
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",17 Drama Total - Luzes; Drama; Ação
 http://www.blogger.com/video-play.mp4?contentId=37eebd423b08031c&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",18 Drama Total - Luzes; 
-
-Drama; Ação
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",18 Drama Total - Luzes; Drama; Ação
 http://www.blogger.com/video-play.mp4?contentId=ba50e3926be18fc5&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",19 Drama Total - Luzes; 
-
-Drama; Ação
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",19 Drama Total - Luzes; Drama; Ação
 http://www.blogger.com/video-play.mp4?contentId=9715c75328d56e4d&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",20 Drama Total - Luzes; 
-
-Drama; Ação
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",20 Drama Total - Luzes; Drama; Ação
 http://www.blogger.com/video-play.mp4?contentId=578a43dad8a1410b&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",21 Drama Total - Luzes; 
-
-Drama; Ação
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",21 Drama Total - Luzes; Drama; Ação
 http://www.blogger.com/video-play.mp4?contentId=5fc191475679b421&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",22 Drama Total - Luzes; 
-
-Drama; Ação
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",22 Drama Total - Luzes; Drama; Ação
 http://www.blogger.com/video-play.mp4?contentId=eb7c353d4dd9d761&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",23 Drama Total - Luzes; 
-
-Drama; Ação
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",23 Drama Total - Luzes; Drama; Ação
 http://www.blogger.com/video-play.mp4?contentId=d2fd185264c96b84&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",24 Drama Total - Luzes; 
-
-Drama; Ação
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",24 Drama Total - Luzes; Drama; Ação
 http://www.blogger.com/video-play.mp4?contentId=30ffc8c91e85f5b4&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",25 Drama Total - Luzes; 
-
-Drama; Ação
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",25 Drama Total - Luzes; Drama; Ação
 http://www.blogger.com/video-play.mp4?contentId=5ecce3729874a613&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",26 Drama Total - Luzes; 
-
-Drama; Ação
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",26 Drama Total - Luzes; Drama; Ação
 http://www.blogger.com/video-play.mp4?contentId=35ea6c31971adb3d&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",26(ALTERNATIVO) Drama Total - 
-
-Luzes; Drama; Ação
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",26(ALTERNATIVO) Drama Total - Luzes; Drama; Ação
 http://www.blogger.com/video-play.mp4?contentId=d132c5352b134dab&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",27.1 Drama Total - Luzes; 
-
-Drama; Ação
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",27.1 Drama Total - Luzes; Drama; Ação
 http://www.blogger.com/video-play.mp4?contentId=e56759bc426c2d2a&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",27.2 Drama Total - Luzes; 
-
-Drama; Ação
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AuhGUV4.jpg" group-title="Drama Total - Luzes; Drama; Ação",27.2 Drama Total - Luzes; Drama; Ação
 http://www.blogger.com/video-play.mp4?contentId=fb72364dd3c3974&CompartilhandoIPTV
 
 
@@ -6642,87 +6583,59 @@ http://www.blogger.com/video-play.mp4?contentId=2af60335e73e8de5&CompartilhandoI
 http://www.blogger.com/video-play.mp4?contentId=dea3ca5a6ffdf058&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/bbUmaEO.png" group-title="Drama Total - Turnê Mundial",26(ALTERNATIVO) Drama Total - 
-
-Turnê Mundial
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bbUmaEO.png" group-title="Drama Total - Turnê Mundial",26(ALTERNATIVO) Drama Total - Turnê Mundial
 http://www.blogger.com/video-play.mp4?contentId=b4f1eba56b08c612&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/z94IjCL.jpg" group-title="Drama Total - A Vingança da Ilha",01 Drama Total - A Vingança 
-
-da Ilha
+#EXTINF:-1 tvg-logo="http://i.imgur.com/z94IjCL.jpg" group-title="Drama Total - A Vingança da Ilha",01 Drama Total - A Vingança da Ilha
 http://www.blogger.com/video-play.mp4?contentId=4ae56bc92117c77f&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/z94IjCL.jpg" group-title="Drama Total - A Vingança da Ilha",02 Drama Total - A Vingança 
-
-da Ilha
+#EXTINF:-1 tvg-logo="http://i.imgur.com/z94IjCL.jpg" group-title="Drama Total - A Vingança da Ilha",02 Drama Total - A Vingança da Ilha
 http://www.blogger.com/video-play.mp4?contentId=dd17494f2eeccee6&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/z94IjCL.jpg" group-title="Drama Total - A Vingança da Ilha",03 Drama Total - A Vingança 
-
-da Ilha
+#EXTINF:-1 tvg-logo="http://i.imgur.com/z94IjCL.jpg" group-title="Drama Total - A Vingança da Ilha",03 Drama Total - A Vingança da Ilha
 http://www.blogger.com/video-play.mp4?contentId=a2a0d505c05399f8&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/z94IjCL.jpg" group-title="Drama Total - A Vingança da Ilha",04 Drama Total - A Vingança 
-
-da Ilha
+#EXTINF:-1 tvg-logo="http://i.imgur.com/z94IjCL.jpg" group-title="Drama Total - A Vingança da Ilha",04 Drama Total - A Vingança da Ilha
 http://www.blogger.com/video-play.mp4?contentId=12ebd52d68bf91a7&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/z94IjCL.jpg" group-title="Drama Total - A Vingança da Ilha",05 Drama Total - A Vingança 
-
-da Ilha
+#EXTINF:-1 tvg-logo="http://i.imgur.com/z94IjCL.jpg" group-title="Drama Total - A Vingança da Ilha",05 Drama Total - A Vingança da Ilha
 http://www.blogger.com/video-play.mp4?contentId=f8b1217a5a397732&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/z94IjCL.jpg" group-title="Drama Total - A Vingança da Ilha",06 Drama Total - A Vingança 
-
-da Ilha
+#EXTINF:-1 tvg-logo="http://i.imgur.com/z94IjCL.jpg" group-title="Drama Total - A Vingança da Ilha",06 Drama Total - A Vingança da Ilha
 http://www.blogger.com/video-play.mp4?contentId=bc083fe6e444d4a9&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/z94IjCL.jpg" group-title="Drama Total - A Vingança da Ilha",07 Drama Total - A Vingança 
-
-da Ilha
+#EXTINF:-1 tvg-logo="http://i.imgur.com/z94IjCL.jpg" group-title="Drama Total - A Vingança da Ilha",07 Drama Total - A Vingança da Ilha
 http://www.blogger.com/video-play.mp4?contentId=4f7813d81c7e281e&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/z94IjCL.jpg" group-title="Drama Total - A Vingança da Ilha",08 Drama Total - A Vingança 
-
-da Ilha
+#EXTINF:-1 tvg-logo="http://i.imgur.com/z94IjCL.jpg" group-title="Drama Total - A Vingança da Ilha",08 Drama Total - A Vingança da Ilha
 http://www.blogger.com/video-play.mp4?contentId=171251cde2ea09df&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/z94IjCL.jpg" group-title="Drama Total - A Vingança da Ilha",09 Drama Total - A Vingança 
-
-da Ilha
+#EXTINF:-1 tvg-logo="http://i.imgur.com/z94IjCL.jpg" group-title="Drama Total - A Vingança da Ilha",09 Drama Total - A Vingança da Ilha
 http://www.blogger.com/video-play.mp4?contentId=3e9b5bbd483d9aca&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/z94IjCL.jpg" group-title="Drama Total - A Vingança da Ilha",10 Drama Total - A Vingança 
-
-da Ilha
+#EXTINF:-1 tvg-logo="http://i.imgur.com/z94IjCL.jpg" group-title="Drama Total - A Vingança da Ilha",10 Drama Total - A Vingança da Ilha
 http://www.blogger.com/video-play.mp4?contentId=846f1c1d46eb9164&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/z94IjCL.jpg" group-title="Drama Total - A Vingança da Ilha",11 Drama Total - A Vingança 
-
-da Ilha
+#EXTINF:-1 tvg-logo="http://i.imgur.com/z94IjCL.jpg" group-title="Drama Total - A Vingança da Ilha",11 Drama Total - A Vingança da Ilha
 http://www.blogger.com/video-play.mp4?contentId=f875bd99d8ad6074&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/z94IjCL.jpg" group-title="Drama Total - A Vingança da Ilha",12 Drama Total - A Vingança 
-
-da Ilha
+#EXTINF:-1 tvg-logo="http://i.imgur.com/z94IjCL.jpg" group-title="Drama Total - A Vingança da Ilha",12 Drama Total - A Vingança da Ilha
 http://www.blogger.com/video-play.mp4?contentId=8db7264dcff07a62&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/z94IjCL.jpg" group-title="Drama Total - A Vingança da Ilha",13 Drama Total - A Vingança 
-
-da Ilha
+#EXTINF:-1 tvg-logo="http://i.imgur.com/z94IjCL.jpg" group-title="Drama Total - A Vingança da Ilha",13 Drama Total - A Vingança da Ilha
 http://www.blogger.com/video-play.mp4?contentId=ef524774617fcdf9&CompartilhandoIPTV
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DN4EVtP.png" group-title="Drama Total - Só Estrelas",01 Só Estrelas
@@ -6829,159 +6742,107 @@ http://www.blogger.com/video-play.mp4?contentId=ed7ba6b1ac31963e&CompartilhandoI
 http://www.blogger.com/video-play.mp4?contentId=a3207f206fc91768&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",01 Drama Total - Corrida 
-
-Alucinante
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",01 Drama Total - Corrida Alucinante
 http://www.blogger.com/video-play.mp4?contentId=2dcedbd94af15b8b&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",02 Drama Total - Corrida 
-
-Alucinante
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",02 Drama Total - Corrida Alucinante
 http://www.blogger.com/video-play.mp4?contentId=f20c7208542c0fcd&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",03 Drama Total - Corrida 
-
-Alucinante
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",03 Drama Total - Corrida Alucinante
 http://www.blogger.com/video-play.mp4?contentId=942f55499b53b372&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",04 Drama Total - Corrida 
-
-Alucinante
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",04 Drama Total - Corrida Alucinante
 http://www.blogger.com/video-play.mp4?contentId=3b412f745a29d849&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",05 Drama Total - Corrida 
-
-Alucinante
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",05 Drama Total - Corrida Alucinante
 http://www.blogger.com/video-play.mp4?contentId=19fecf4c88482e6e&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",06 Drama Total - Corrida 
-
-Alucinante
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",06 Drama Total - Corrida Alucinante
 http://www.blogger.com/video-play.mp4?contentId=5d241ccd754c3a30&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",07 Drama Total - Corrida 
-
-Alucinante
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",07 Drama Total - Corrida Alucinante
 http://www.blogger.com/video-play.mp4?contentId=3b85faba0d563fc2&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",08 Drama Total - Corrida 
-
-Alucinante
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",08 Drama Total - Corrida Alucinante
 http://www.blogger.com/video-play.mp4?contentId=6cb743e951a6da20&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",09 Drama Total - Corrida 
-
-Alucinante
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",09 Drama Total - Corrida Alucinante
 http://www.blogger.com/video-play.mp4?contentId=8e79e66514488fed&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",10 Drama Total - Corrida 
-
-Alucinante
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",10 Drama Total - Corrida Alucinante
 http://www.blogger.com/video-play.mp4?contentId=f22c82b3d13c3175&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",11 Drama Total - Corrida 
-
-Alucinante
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",11 Drama Total - Corrida Alucinante
 http://www.blogger.com/video-play.mp4?contentId=b8e7e595de0f8637&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",12 Drama Total - Corrida 
-
-Alucinante
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",12 Drama Total - Corrida Alucinante
 http://www.blogger.com/video-play.mp4?contentId=ea184f8e683bf683&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",13 Drama Total - Corrida 
-
-Alucinante
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",13 Drama Total - Corrida Alucinante
 http://www.blogger.com/video-play.mp4?contentId=7489e9e7739b6399&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",14 Drama Total - Corrida 
-
-Alucinante
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",14 Drama Total - Corrida Alucinante
 http://www.blogger.com/video-play.mp4?contentId=a5ecb1f3ae3bccc7&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",15 Drama Total - Corrida 
-
-Alucinante
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",15 Drama Total - Corrida Alucinante
 http://www.blogger.com/video-play.mp4?contentId=324116e7e13d317e&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",16 Drama Total - Corrida 
-
-Alucinante
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",16 Drama Total - Corrida Alucinante
 http://www.blogger.com/video-play.mp4?contentId=74a9dc51d9bba0bc&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",17 Drama Total - Corrida 
-
-Alucinante
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",17 Drama Total - Corrida Alucinante
 http://www.blogger.com/video-play.mp4?contentId=ccae953c488fe5d3&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",18 Drama Total - Corrida 
-
-Alucinante
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",18 Drama Total - Corrida Alucinante
 http://www.blogger.com/video-play.mp4?contentId=6657ca829902f548&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",19 Drama Total - Corrida 
-
-Alucinante
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",19 Drama Total - Corrida Alucinante
 http://www.blogger.com/video-play.mp4?contentId=3d9c87ea70b9275c&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",20 Drama Total - Corrida 
-
-Alucinante
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",20 Drama Total - Corrida Alucinante
 http://www.blogger.com/video-play.mp4?contentId=3f6776739c7a5608&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",21 Drama Total - Corrida 
-
-Alucinante
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",21 Drama Total - Corrida Alucinante
 http://www.blogger.com/video-play.mp4?contentId=66b2c9302430bea6&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",22 Drama Total - Corrida 
-
-Alucinante
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",22 Drama Total - Corrida Alucinante
 http://www.blogger.com/video-play.mp4?contentId=696244265c6d5b8c&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",23 Drama Total - Corrida 
-
-Alucinante
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",23 Drama Total - Corrida Alucinante
 http://www.blogger.com/video-play.mp4?contentId=64248eee2fec84cd&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",24 Drama Total - Corrida 
-
-Alucinante
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",24 Drama Total - Corrida Alucinante
 http://www.blogger.com/video-play.mp4?contentId=3ad58aa429ab3d23&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",25 Drama Total - Corrida 
-
-Alucinante
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",25 Drama Total - Corrida Alucinante
 http://www.blogger.com/video-play.mp4?contentId=dadd3b7e0a9d1943&CompartilhandoIPTV
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",26 Drama Total - Corrida 
-
-Alucinante
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Dw0pmZng.jpg" group-title="Drama Total - Corrida Alucinante",26 Drama Total - Corrida Alucinante
 http://www.blogger.com/video-play.mp4?contentId=4929d2a157b279f7&CompartilhandoIPTV
 
 
