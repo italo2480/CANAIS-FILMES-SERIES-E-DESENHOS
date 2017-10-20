@@ -249,6 +249,10 @@ http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w1742879983.m3u8
 
 
+#EXTINF:0 tvg-logo="https://goo.gl/NWvdjo" group-title="TV ABERTA",SBT HD 2
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/chunklist.m3u8
+
+
 #EXTINF:0 tvg-logo="https://goo.gl/NWvdjo" group-title="TV ABERTA",SBT ALTERNATIVO
 http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8
 
@@ -858,6 +862,210 @@ http://185.38.12.41/sec/1508398011/333831311f1a04039949b7b47d3f87096dffa0099479e
 
 
 
+############################CHAOTIC#################################
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 01 - Bem Vindo a Chaotic (Parte 1) 
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP01.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 02 - Bem Vindo a Chaotic (Parte 2)
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP02.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 03 - Inesperado
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP03.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 04 - Outro Mundo e Submundo, Eternos Rivais
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP04.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 05 - Colisão de Curso 
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP05.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 06 - Sou Bodal, Nunca Ouviu Falar de Mim? 
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP06.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 07 - O Formigueiro
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP07.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 08 - Tudo Está em Fluxo
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP08.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 09 - O Castelo de Bodhran ou Nada (Parte 1)
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP09.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 10 - O Castelo de Bodhran ou Nada (Parte 2)
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP10.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 11 - O Lorde da Traição 
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP11.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 12 - A Batalha dos Sexos
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP12.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 13 - Lições de Batalha
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP13.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 14 - O Aniverário de Borth-Majar
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP14.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 15 - Móveis da Coragem
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP15.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 16 - Herói Caído
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP16.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 17 - O Scan Varredor 
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP17.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 18 - Almagedon
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP18.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 19 - Um Destino Assustador
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP19.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 20 - Labirinto de Ameaça
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP20.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 21 - Lá Fora no Frio 
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP21.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 22 - Chaotic Reis
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP22.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 23 - O Ataque de Stelgar 
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP23.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 24 - Crônicas de um CodeMaster (Parte 1)
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP24.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 25 - Crônicas de um CodeMaster (Parte 2)
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP25.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 26 - O Scan Supremo
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP26.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 27 - Vitória Fácil 
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP27.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 28 - Um Fluxo Também Extremo 
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP28.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 29 - Crise em Chaotic
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP29.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 30 - A Caminho de Kor-bek 
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP30.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 31 - Guerreiros de Fogo
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP31.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 32 - Investigação no Abismo
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP32.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 33 - Comboios Naufrágios
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP33.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 34 - Troca de Cartas
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP34.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 35 - Duelo Duplo (Parte 1)
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP35.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 36 - Duelo Duplo (Parte 2
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP36.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 37 - Afundando
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP37.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 38 - Grande Tempo
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP38.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 39 - Olho do Turbilhão
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP39.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 40 - Entre Amigos
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP40.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 41 - Um perigo Raros 
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP41.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 42 - Perigos da Diplomacia
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP42.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 43 - O Pai Errando
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP43.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 44 - Confronto no Coliseu
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP44.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 45 - Na Onda do Rock e Roll
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP45.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 46 - Comando de Chaor (Parte 1)
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP46.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 47 - Comando de Chaor (Parte 2)
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP47.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 48 - Correspondência Mega
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP48.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 49 - Tempos Levantados
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP49.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 50 - Gigantemtopolis 
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP50.mp4
+
+
+
+
+
 ############################O MASKARA#################################
 
 
@@ -1090,6 +1298,7 @@ http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP54.mp4
 http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer03/ondemand/INZMELVGOEP01.mp4
 
 
+
 #EXTINF:0 tvg-logo="https://goo.gl/tNYKWu" group-title="SUPER-ONZE GO",Episódio 02 - O Preço do Poder! 
 http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer03/ondemand/INZMELVGOEP02.mp4
 
@@ -1281,7 +1490,7 @@ http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer03/ondemand/INZMELVGOEP47.mp4
 
 
 
-#EXTINF:0 tvg-logo="https://goo.gl/6ymBRq" group-title="SUPER-ONZE",EPISODIOS DUBLADOS
+#EXTINF:0 tvg-logo="sd" group-title="SUPER-ONZE",EPISODIOS DUBLADOS
 http://0.0.0.0
 
 
@@ -17991,6 +18200,21 @@ http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/TBBTT10EP24.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3ZcWRkqh.jpg" group-title="THE BIG BANG THEORY", TBBT T11|EP01 (LEG)
 http://zeus.netcine.tv/httpdelivery/tbbt/11leg/01-ALTO.mp4
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3ZcWRkqh.jpg" group-title="THE BIG BANG THEORY", TBBT T11|EP02 (LEG)
+http://zeus.netcine.tv/httpdelivery/tbbt/11leg/02-ALTO.mp4
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3ZcWRkqh.jpg" group-title="THE BIG BANG THEORY", TBBT T11|EP03 (LEG)
+http://zeus.netcine.tv/httpdelivery/tbbt/11leg/03-ALTO.mp4
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3ZcWRkqh.jpg" group-title="THE BIG BANG THEORY", TBBT T11|EP04 (LEG)
+http://zeus.netcine.tv/httpdelivery/tbbt/11leg/04-ALTO.mp4
+
+
+
 
 ############################ARROW#################################
 
