@@ -361,6 +361,265 @@ http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
 
 
 
+############################CÂMERAS#################################
+
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Rio de Janeiro - Copacabana
+http://video3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Rio de Janeiro - Copacabana 2 ANGULO
+http://hddn01.skylinewebcams.com/06041002MXE7-1507401275323.ts
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Blumenal
+http://www.streambnu.info:1935/blumenau1/default.stream/chunklist_w1615629535.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Aeroporto de Congonhas de São Paulo
+http://d1h84if288zv9w.cloudfront.net/7dias/0be3_135.stream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Av. Vinte e Três de Maio Trânsito
+https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_287.stream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Ubatuba - Praia Enseaba 
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_204.stream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Recife - Boa Viagem 
+https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_595.stream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Arena Allianz Parque - Palestra Itália
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_1093.stream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Avenida Atlântica em São Francisco do Sul - SC
+https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_1036.stream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Rua Santa Efigênia
+https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_482.stream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Av. Interlagos - Shopping Interlagos
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_801.stream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Marginal Pinheiros Trânsito
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_69.stream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Guarujá - Praia da Enseaba 
+https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_151.stream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Ubatuba - Praia do Sapê
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_1242.stream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Pico do gavião - Andradas MG
+rtmp://streaming55.sitehosting.com.br/picodogaviao//camera.stream
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",TIMES SQUARE HD
+https://video3.earthcam.com/fecnetwork/9974.flv/chunklist_w1366511516.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",PRAIA AO VIVO
+rtmp://video1.earthcam.com/earthcamtv/Stream1
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",SANTO AMARO
+http://video-auth1.iol.pt:1935/beachcam/santoamaro/chunks.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",SÃO FRANCISCO- EUA
+http://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",GERMANY
+http://stream.livespotting.tv/windit-edge/vv101_720p.stream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",TEUFELSRAD- PARQUE DE DIVERSÃO
+http://stream.livespotting.tv/windit-edge/LS_3553a_720p.stream/chunklist_w1561253585.m3u8?sa=livespotting.tv
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",LOWENBRAU
+http://stream.livespotting.tv/windit-edge/LS_a74ba_720p.stream/chunklist_w1749211580.m3u8?sa=livespotting.tv
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",CHICAGO
+https://video3.earthcam.com/fecnetwork/13661.flv/chunklist_w500853770.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Avenida Herculano Bandeira, 636
+https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_1394.stream/chunklist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Avenida Industrial, n° 601
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",TIME SQUARE ALTO
+https://video3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist_w676375425.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Ilhabela Vista Sul
+https://d2pchsju5jshrk.cloudfront.net/aovivo/46908c90-52c6-11e7-a161-97a69642a621.stream/chunklist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Avenida Francisco Glicério, n° 641
+https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_132.stream/chunklist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Avenida Hildebrando de Lima, nº 717
+https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_458.stream/chunklist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Pizzaria Massa Fera - Av. Robert Koch, 506 Londrina-PR 
+https://d3qc4pzmpcvwft.cloudfront.net/aovivo/5006b3c0-bfd3-11e6-8fa1-3fab0a7d8591.stream/chunklist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Focco Brasil - R. Purus, 271 Londrina-PR
+https://d1xatkxshke25.cloudfront.net/aovivo/defb3ed0-a344-11e6-a273-f7cdd904f822.stream/chunklist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Mirante do Paranapanema - SP
+https://d1xwbsse9lcavw.cloudfront.net/aovivo/6b6e5fd0-9604-11e6-ba7e-fb62ba03fc29.stream/chunklist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Avenida Getúlio Vargas, nº 160
+https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_895.stream/chunklist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Ninho das Águias
+https://d2pchsju5jshrk.cloudfront.net/aovivo/56b17550-1d27-11e7-86ad-b3286df8070e.stream/chunklist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Cordoba Entre Brasil y Uruguay Salto
+https://d158ijmq5mc2ll.cloudfront.net/7dias/9d266a90-8c12-11e7-b85e-2d800f1a7390.stream/chunklist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
+
+
+
+
+
+
+
+############################RÁDIOS#################################
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",ANOS 80
+http://192.99.150.31:8697/stream?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",SERTANEJO
+http://192.99.150.31:9191/stream?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",SERTANEJO 2
+http://192.99.150.31:9485/stream?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",ANOS 70
+http://192.99.150.31:8241/stream?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",BREGAS
+http://192.99.150.31:9007/stream?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",MÚSICAS INFANTIS
+http://192.99.150.31:9431/stream?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",DUSBSTEP
+http://192.99.150.31:9083/stream?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",ELETRO HOUSE
+http://192.99.150.31:9095/stream?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",FORRÓ
+http://192.99.150.31:9019/stream?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",JOVEM GUARDA
+http://192.99.150.31:8801/stream?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",LOVE SONGS
+http://192.99.150.31:8897/stream?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",NEW ROCK
+http://6d9a.webradio.upx.net.br:8028/stream
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",POP ROCK
+http://6d9a.webradio.upx.net.br:8016/stream
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",ANOS 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",SERTANEJO RAIZ
+http://192.99.150.31:9155/stream?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",BOSSA NOVA
+http://6d9a.webradio.upx.net.br:9974/stream
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",REGGAE
+http://192.99.150.31:8715/stream?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",ROBERTO CARLOS
+http://192.99.150.31:9137/stream?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",ROCK CLÁSSICO
+http://192.99.150.31:9125/stream?
+
+
+
+
+
+
+
 #################################FILMES#################################################
 
 
@@ -813,7 +1072,8 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/HRZNTPRFNDSTRDGLF.mp4
 http://185.38.12.41/sec/1508398011/333831311f1a04039949b7b47d3f87096dffa0099479e672/ivs/fa/a3/f0ec6c468eb7/hls/tracks-3,4/index.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
+#EXTINF:0 tvg-logo="https://goo.gl/FTVvPK" group-title="LANÇAMENTOS",OPERAÇÃO RESGATE
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPRCORSGT.mp4
 
 
 #EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
@@ -859,10 +1119,299 @@ http://185.38.12.41/sec/1508398011/333831311f1a04039949b7b47d3f87096dffa0099479e
 
 
 #EXTINF:0 tvg-logo="" group-title="",
+
+
+
+############################AS AVENTURAS DE JUNIPER LEE#################################
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",01 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=45be4da4569bdebb
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",02 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=cc8c1ec3d183b0ba
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",03 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=b7ff10a8c5b989ff
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",04 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=446d646fd18ca91a
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",05 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=415e535427ce6dcc
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",06 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=4a781e75b5ed5bc9
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",07 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=6023ef7b7b02b6a8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",08 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=1baa745bf6dc24e2
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",09 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=9d5a3cc59620b719
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",10 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=809c26953367cdb9
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",11 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=907bac1333731359
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",12 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=fce5cf6c693a2abb
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",13 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=e056791161ef28a
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",14 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=307ede4540f482ea
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",15 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=d05415b69eb25cb7
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",16 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=9b7aea4ea25d1f93
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",17 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=7287414bda8b3a43
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",18 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=3c2d2c9c7ce1f64a
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",19 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=9a9769823ef0e06b
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",20 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=46f51da3cd8a87d0
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",21 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=6e767be930f29b0c
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",22 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=51a4e187c5c9688e
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",23 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=f41712aeaa0c0896
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",24 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=c9328344016b3a51
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",25 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=7f82bff7ea7c40a0
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",26 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=497712dfc2c20ee9
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",27 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=11a80ca3eaa5bc14
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",28 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=8dce4f68005c4442
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",29 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=50bc20a65f53afaa
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",30 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=b5cab8189e1af5fe
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",31 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=da3625355667719a
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",32 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=7866d34b3b89727c
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",33 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=fa5276d51d63d82b
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",34 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=b2ea6034d0398edb
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",35 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=e2edbcb275594375
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",36 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=71ce8418f2947bee
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",37 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=5c4e9626cb362ed0
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",38 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=9e3fa1836cfe32e1
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",39 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=be62fb4af366bbdc
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8HIYmk4.jpg" group-title="A Vida e Aventuras de Juniper Lee",40 A Vida e Aventuras de Juniper Lee
+http://www.blogger.com/video-play.mp4?contentId=90e6e1e02fc7420c
+
+
+
+
+
+
+############################CAVERNA DO DRAGÃO#################################
+
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/tuKLhD6.jpg" group-title="Caverna do Dragão",01 Caverna do Dragão
+http://www.blogger.com/video-play.mp4?contentId=b43fba81b711bcda
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/tuKLhD6.jpg" group-title="Caverna do Dragão",02 Caverna do Dragão
+http://www.blogger.com/video-play.mp4?contentId=37d0b1254e90dc56
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/tuKLhD6.jpg" group-title="Caverna do Dragão",03 Caverna do Dragão
+http://www.blogger.com/video-play.mp4?contentId=1f752233cf75b8f2
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/tuKLhD6.jpg" group-title="Caverna do Dragão",04 Caverna do Dragão
+http://www.blogger.com/video-play.mp4?contentId=810a8eee288956a8
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/tuKLhD6.jpg" group-title="Caverna do Dragão",05 Caverna do Dragão
+http://www.blogger.com/video-play.mp4?contentId=39b7991fe4e217cc
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/tuKLhD6.jpg" group-title="Caverna do Dragão",06 Caverna do Dragão
+http://www.blogger.com/video-play.mp4?contentId=db5361936ed6f8ec
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/tuKLhD6.jpg" group-title="Caverna do Dragão",07 Caverna do Dragão
+http://www.blogger.com/video-play.mp4?contentId=ada13575ca451763
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/tuKLhD6.jpg" group-title="Caverna do Dragão",08 Caverna do Dragão
+http://www.blogger.com/video-play.mp4?contentId=5d2d9e179c73f6c4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/tuKLhD6.jpg" group-title="Caverna do Dragão",09 Caverna do Dragão
+http://www.blogger.com/video-play.mp4?contentId=5a2fd463739be34b
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/tuKLhD6.jpg" group-title="Caverna do Dragão",10 Caverna do Dragão
+http://www.blogger.com/video-play.mp4?contentId=b6fb482510b4eb11
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/tuKLhD6.jpg" group-title="Caverna do Dragão",11 Caverna do Dragão
+http://www.blogger.com/video-play.mp4?contentId=62003e81f488969
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/tuKLhD6.jpg" group-title="Caverna do Dragão",12 Caverna do Dragão
+http://www.blogger.com/video-play.mp4?contentId=f6ace5a14a313343
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/tuKLhD6.jpg" group-title="Caverna do Dragão",13 Caverna do Dragão
+http://www.blogger.com/video-play.mp4?contentId=ee1d8e5a329eab7c
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/tuKLhD6.jpg" group-title="Caverna do Dragão",14 Caverna do Dragão
+http://www.blogger.com/video-play.mp4?contentId=fe3924b7af955e7c
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/tuKLhD6.jpg" group-title="Caverna do Dragão",15 Caverna do Dragão
+http://www.blogger.com/video-play.mp4?contentId=67a89bba4cb099c9
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/tuKLhD6.jpg" group-title="Caverna do Dragão",16 Caverna do Dragão
+http://www.blogger.com/video-play.mp4?contentId=917924abd2d38be5
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/tuKLhD6.jpg" group-title="Caverna do Dragão",17 Caverna do Dragão
+http://www.blogger.com/video-play.mp4?contentId=f5c41867dd9bf0db
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/tuKLhD6.jpg" group-title="Caverna do Dragão",18 Caverna do Dragão
+http://www.blogger.com/video-play.mp4?contentId=d7ac0cd2e5d26269
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/tuKLhD6.jpg" group-title="Caverna do Dragão",19 Caverna do Dragão
+http://www.blogger.com/video-play.mp4?contentId=3c90c6cf9bc67c7
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/tuKLhD6.jpg" group-title="Caverna do Dragão",20 Caverna do Dragão
+http://www.blogger.com/video-play.mp4?contentId=3f79c28b599a2c06
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/tuKLhD6.jpg" group-title="Caverna do Dragão",21 Caverna do Dragão
+http://www.blogger.com/video-play.mp4?contentId=66842ca6917fc3d5
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/tuKLhD6.jpg" group-title="Caverna do Dragão",22 Caverna do Dragão
+http://www.blogger.com/video-play.mp4?contentId=509e3919ec0028f5
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/tuKLhD6.jpg" group-title="Caverna do Dragão",23 Caverna do Dragão
+http://www.blogger.com/video-play.mp4?contentId=5002dba69085913
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/tuKLhD6.jpg" group-title="Caverna do Dragão",24 Caverna do Dragão
+http://www.blogger.com/video-play.mp4?contentId=447c5c9b6cbaa163
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/tuKLhD6.jpg" group-title="Caverna do Dragão",25 Caverna do Dragão
+http://www.blogger.com/video-play.mp4?contentId=77409037db6e61f1
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/tuKLhD6.jpg" group-title="Caverna do Dragão",26 Caverna do Dragão
+http://www.blogger.com/video-play.mp4?contentId=6e95bbc07e13b532
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/tuKLhD6.jpg" group-title="Caverna do Dragão",27 Caverna do Dragão
+http://www.blogger.com/video-play.mp4?contentId=ec2ce5653ac1b90
+
+
+
 
 
 
 ############################CHAOTIC#################################
+
+
+
+
+
 #EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 01 - Bem Vindo a Chaotic (Parte 1) 
 http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP01.mp4
 
@@ -19276,569 +19825,7 @@ https://video3.earthcam.com/fecnetwork/13661.flv/chunklist_w500853770.m3u8
 
 
 
-############################RÁDIOS#################################
 
-
-#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",ANOS 80
-http://192.99.150.31:8697/stream?
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",SERTANEJO
-http://192.99.150.31:9191/stream?
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",SERTANEJO 2
-http://192.99.150.31:9485/stream?
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",ANOS 70
-http://192.99.150.31:8241/stream?
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",BREGAS
-http://192.99.150.31:9007/stream?
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",MÚSICAS INFANTIS
-http://192.99.150.31:9431/stream?
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",DUSBSTEP
-http://192.99.150.31:9083/stream?
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",ELETRO HOUSE
-http://192.99.150.31:9095/stream?
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",FORRÓ
-http://192.99.150.31:9019/stream?
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",JOVEM GUARDA
-http://192.99.150.31:8801/stream?
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",LOVE SONGS
-http://192.99.150.31:8897/stream?
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",NEW ROCK
-http://6d9a.webradio.upx.net.br:8028/stream
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",POP ROCK
-http://6d9a.webradio.upx.net.br:8016/stream
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",ANOS 2000
-http://6d9a.webradio.upx.net.br:9940/stream
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",SERTANEJO RAIZ
-http://192.99.150.31:9155/stream?
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",BOSSA NOVA
-http://6d9a.webradio.upx.net.br:9974/stream
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",REGGAE
-http://192.99.150.31:8715/stream?
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",ROBERTO CARLOS
-http://192.99.150.31:9137/stream?
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",ROCK CLÁSSICO
-http://192.99.150.31:9125/stream?
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
 
 
 #EXTINF:0 tvg-logo="" group-title="",
