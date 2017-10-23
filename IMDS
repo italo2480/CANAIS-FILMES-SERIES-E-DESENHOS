@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="" group-title="",LISTA ATUALIZADA 23/10/2017 14:20
+
 
 
 #EXTINF:0 tvg-logo="https://lut.im/xO3mLBpjYa/0OQb76WIZhMyay0R.jpeg" group-title="REALITY",A FAZENDA 24HRS 480P
@@ -11,6 +13,7 @@ https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/index_720_a
 
                                                                                                                                           
 #EXTINF:0 tvg-logo="https://goo.gl/V1ELgY" group-title="DOCUMENTARIOS",ANIMAL PLANET 
+http://195.181.162.206/live/Brasil/TEST/8331.ts?token=SBUKWRZfRAISAFIACQMHX1AHAFdQW1YIB1oAUQQBAV0CAlJaVwcDCgYUHBdKQ0JcVAg6WgUaXwFXUVAbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxWVABSUQYVEUcLXEcNCE1cWhwXXE9EXEcLBF8+XABPDQEEFVwNRFVfG0BXC2gCXV1XXlEbDRIIF0lHWhJIRwNGIQ1YEwd3VVJFBxgsWQUWEhoSV1BDQlhBAEcJD00JVUhAAlgTDUVLShVYGiRlRBQSU0hBXFlDUFoLRwlDTBYbSEAIRDkRVEpHRQdZCFIUGgoUABcVFV1YTToGXA9WAFoQCw5ZFUELGwAHUghHG0RVX1hZQVZFb0lcAUcJD00JVRk=
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/FZJkzC" group-title="DESENHOS",ANIME TV
@@ -55,13 +58,23 @@ http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8?
 
 
 
-#EXTINF:0 tvg-logo="" group-title="DESENHOS",BOOMERANG
+#EXTINF:0 tvg-logo="http://s26.postimg.org/xa4xhwpyh/images.png" group-title="DESENHOS",BOOMERANG
+http://195.181.162.206/live/Brasil/TEST/8389.ts?token=SBUKWRZfRAISVFUHWgMJXwdQAVcEXVUNAFRSAQVaUw5QDwQMVVRSAFUUHBdKQ0JcVAg6WgUaXwFXWlgbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxWVgdeUAkVEUcLXEcNRAsBBggGGxsSXE0RAEEPWQlmAAcXXgUGEwNdQg5USRUJVm9SVVhYWVQbD0dUEU0aDEoUQFsVJQ9eTFdxDlkXUkZxXlUeFxUVUlBBFwRHBBpfG11SUBVKQVJWRlkWShwVXBpxZBIZG1JITVALFloOVkcDRhYSFUpBWEpsRQdLEUUDWV1TQhcDFQAbGUcIUhlnBlYKDARUEgpeV0AVWBpWB1YIEhoSWFZZWU1aFzpDCFxHA0ZRUAdRUBNE
+
 
 
 
 
 #EXTINF:0 tvg-logo="" group-title="INTERNACIONAL",BLOOMBERG
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/dnhL3tK.png" group-title="TV ABERTA",CANAL DO BOI
+http://189.86.89.116/hls-live/livecb/_definst_/liveevent/livestream.m3u8
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/dnhL3tK.png" group-title="TV ABERTA",CANAL DO BOI ALTERNATIVO
+http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/Fy745S" group-title="TV ABERTA",CANÇÃO NOVA
@@ -75,14 +88,12 @@ http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="DESENHOS",CARTOON NETWORK HD
 
 
-
-
 #EXTINF:0 tvg-logo="" group-title="DESENHOS",CARTOON NETWORK
-
+http://95.141.35.104:8081/look/cartoon8/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/HjiwAC" group-title="TV ABERTA",CULTURA
-http://177.73.84.49/hls/live/live.m3u8?
+http://177.73.84.49/hls/live/live.m3u8
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/HjiwAC" group-title="TV ABERTA",CULTURA ALTERNATIVO
@@ -130,7 +141,7 @@ http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/Js7cJX" group-title="FILMES",FOX
-http://tv.ec.cx:1935/redecanais-stream-fox/myStream/chunklist.m3u8
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/3FzQfQ" group-title="TV ABERTA",GLOBO
@@ -144,8 +155,14 @@ http://158.58.172.5:8081/look/sptvs/playlist.m3u8
 http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/live.m3u8
 
 
+#EXTINF:0 tvg-logo="https://goo.gl/3FzQfQ" group-title="TV ABERTA",GLOBO NORDESTE ALTERNATIVO
+http://158.58.172.5:8081/look/sptvs/playlist.m3u8?MWINFO
+
+
 #EXTINF:0 tvg-logo="https://goo.gl/3FzQfQ" group-title="TV ABERTA",GLOBO SP
 http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/chunklist.m3u8
+
+
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/Jn2aAQ" group-title="NOTICIAS",GLOBO NEWS
@@ -202,6 +219,14 @@ http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8?PEDROJUNIORTUTORIAIS
 http://stmv1.euroti.com.br:1935/mixtv/mixtv/live.m3u8 
 
 
+#EXTINF:0 tvg-logo="https://goo.gl/J7PHVT" group-title="VARIEDADES",NASA TV
+https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/J7PHVT" group-title="VARIEDADES",NASA TV HD
+http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
+
+
 #EXTINF:0 tvg-logo="https://goo.gl/N5Kt6q" group-title="VARIEDADES",POLISHOP
 http://mm4td7.cloud.influxis.com:1935/mm4td7_live/polishoptv/livestream.m3u8
 
@@ -214,6 +239,9 @@ http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8?
 #EXTINF:0 tvg-logo="https://goo.gl/PPsKmQ" group-title="TV ABERTA",RECORD SP
 http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w1068721152.m3u8
 
+
+#EXTINF:0 tvg-logo="https://goo.gl/PPsKmQ" group-title="TV ABERTA",RECORD ALTERNATIVO
+http://158.58.172.5:8081/look/recordx/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/QrJifm" group-title="NOTICIAS",RECORD NEWS
@@ -234,6 +262,10 @@ http://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://goo.gl/fu82rk" group-title="TV ABERTA",REDE TV RJ
 http://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/fu82rk" group-title="TV ABERTA",REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/mvZX97" group-title="TV ABERTA",REDE VIDA
@@ -317,12 +349,16 @@ http://klive-a.akamaihd.net/dc-1/live/hls/p/1828041/e/1_lld8saie/sd/10000/t/66vC
 http://liveabr2.sambatech.com.br/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
 
 
+#EXTINF:0 tvg-logo="https://goo.gl/nx3Qx3" group-title="TV ABERTA",TV ESCOLA HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
 #EXTINF:0 tvg-logo="https://goo.gl/66bdoy" group-title="TV ABERTA",TV EVANGELIZAR
 http://192.99.200.48:1935/evangelizar/tv/live.m3u8
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/DgcpF9" group-title="TV ABERTA",TV FUTURA
-http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8?
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/DgcpF9" group-title="TV ABERTA",TV FUTURA ALTERNATIVO
@@ -333,12 +369,9 @@ http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8?
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 
 
-#EXTINF:0 tvg-logo="https://goo.gl/J7PHVT" group-title="VARIEDADES",NASA TV
-https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8
+#EXTINF:0 tvg-logo="https://s26.postimg.org/46gplo1ux/75675.jpg" group-title="DESENHOS",TV RA-TIM-BUM
+http://185.152.66.69/live/Brasil/TEST/8247.ts?token=SBUKWRZfRAISUAEDCAZSAAJcVARSCl1dAVtWBgJSUAwDUQZZAA4CWQMUHBdKQ0JcVAg6WgUaXwFWVlYbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxWVgdQUgYVEUcLXEcNCE1cWhwXXE9EXEcLBF8+XABPDQEEFVwNRFVfG0BXC2gCXV1XXlEbDRIIF0lHWhJIRwNGIQ1YEwd3VVJFBxgsWQUWEhoSV1BDQlhBAEcJD00JVUhAAlgTDUVLShVYGiRlRBQSU0hBXFlDUFoLRwlDTBYbSEAIRDkRVEpHRQdZCFIUGgoUABcVFV1YTToGXA9WAFoQCw5ZFUELGwAHUghHG0RVX1hZQVZFb0lcAUcJD00JVRk=
 
-
-#EXTINF:0 tvg-logo="https://goo.gl/J7PHVT" group-title="VARIEDADES",NASA TV HD
-http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/Xw6ZzY" group-title="VARIEDADES",VIVA HD
@@ -667,10 +700,6 @@ http://assistir.querofilmehd.com/filmes/Diario.de.um.Banana.Caindo.na.Estrada.20
 http://zeus.netcine.tv/httpdelivery/filmes2017/PDMAG-ALTO.mp4
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/nlrwV4F.jpg" group-title="LANÇAMENTOS",PLANETA DOS MACACOS:A GUERRA(DUB) ALTERNATIVO
-http://filmeseseriesonlinex.com/vip/pdmag.mp4
-
-
 #EXTINF:0 tvg-logo="http://i.imgur.com/ZhvN5aD.jpg" group-title="LANÇAMENTOS",DUPLA EXPLOSIVA
 http://filmesonlineflix.club/f/Dupla.Explosiva.2017.HDRIP.Dublado.mp4
 
@@ -941,10 +970,6 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MDMX02.mp4
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/RCsZrhd.png" group-title="LANÇAMENTOS",MAD MAX(2015)
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MDMXESTDFUR.mp4
-
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/UM698VC.jpg" group-title="LANÇAMENTOS",GODZILLA(2014)
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/GDZLL2014.mp4
 
 
 #EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",GUARDIOES DA GALAXIA 1
