@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="" group-title="",LISTA ATUALIZADA 23/10 17:50
+#EXTINF:0 tvg-logo="" group-title="",LISTA ATUALIZADA 17:06 25/10/2017
 http://0.0.0.0
 
 
@@ -83,6 +83,7 @@ http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="DESENHOS",CARTOON NETWORK HD
 http://195.181.162.206/live/Brasil/TEST/8395.ts?token=SBUKWRZfRAISUAYDXwZWDwRWV1ECDQZdVltYU1RbAFgAUQQLXVJUWwUUHBdKQ0JcVAg6WgUaXwFXW1UbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxWVwFQVwcVEUcLXEcNRAoIAgIFGxsSXE0RAEEPWQlmAAcXXgUGEwNdQg5USRUJVm9SVVhYWVQbD0dUEU0aDEoUQFsVJQ9eTFdxDlkXUkZxXlUeFxUVUlBBFwRHBBpfG1VTUQ9ETxNaXEIMTBdORAISd2IXFRVVQUEAC0AIVwsbXkAVRERPE1BAaBBdFkMUXVFbVUcbDRIJF0lHXgBAOloLDA9SBRdYVl1EQAJHBFYIABQcF1RYXlBBChdsEVEBG15AUw9SUgcbTg==
+
 
 #EXTINF:0 tvg-logo="" group-title="DESENHOS",CARTOON NETWORK
 http://95.141.35.104:8081/look/cartoon8/playlist.m3u8
@@ -201,8 +202,12 @@ http://195.181.162.206/live/Brasil/TEST/8349.ts?token=SBUKWRZfRAISDlYFAQRWDlYAVQ
 http://195.181.162.206/live/Brasil/TEST/8351.ts?token=SBUKWRZfRAISUFRTCQAACgRQAQBRDFQOAFICAlQHA1pRVVtaA1ZUCAMUHBdKQ0JcVAg6WgUaXwFXV1AbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxWVAJQVgYVEUcLXEcNRAoEAwkEGxsSXE0RAEEPWQlmAAcXXgUGEwNdQg5USRUJVm9SVVhYWVQbD0dUEU0aDEoUQFsVJQ9eTFdxDlkXUkZxXlUeFxUVUlBBFwRHBBpfG1VWVQNETxNaXEIMTBdORAISd2IXFRVVQUEAC0AIVwsbXkAVRERPE1BAaBBdFkMUXVFbVUcbDRIJF0lHXgBAOloLDA9SBRdYVl1EQAJHBFYIABQcF1RYXlBBChdsEVEBG15AUwNTWwYbTg==
 
 
-#EXTINF:0 tvg-logo="https://goo.gl/C63W6E" group-title="FILMES",MEGAPIX HD
+#EXTINF:0 tvg-logo="http://s26.postimg.org/ctwybgr09/maxresdefault_1.jpg" group-title="FILMES",MAX PRIME
+http://195.181.162.206/live/Brasil/TEST/8254.ts?token=SBUKWRZfRAISBAhTXwECCwFTUwdWAVJfVlIFDwVbB18KDgAOXAACCFYUHBdKQ0JcVAg6WgUaXwFXUFYbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxXUgdSVAAVEUcLXEcNRAEEBwMXFRVVQUEAF10AVDpdARQIVANBC1dGWw4UR1gIZ1RTXVRXUxIDF1RHH0NRFklGWEN0CgxEXXVbA0oAFy9WUxgSGRtVWU1HBBFWQwJHCFdUVxVKQVJWRlkWShwVXBpxZBIZG1JITVALFloOVkcDRhYSFUpBWEpsRQdLEUUDWV1TQhcDFQAbGUcIUhlnBlYKDARUEgpeV0AVWBpWB1YIEhoSWFZZWU1aFzpDCFxHA0ZbVQdWQUw=
 
+
+#EXTINF:0 tvg-logo="https://goo.gl/C63W6E" group-title="FILMES",MEGAPIX HD
+http://195.181.162.206/live/Brasil/TEST/8282.ts?token=SBUKWRZfRAISBAhTXwECCwFTUwdWAVJfVlIFDwVbB18KDgAOXAACCFYUHBdKQ0JcVAg6WgUaXwFXUFYbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxXUgdSVAAVEUcLXEcNRAEEBwMXFRVVQUEAF10AVDpdARQIVANBC1dGWw4UR1gIZ1RTXVRXUxIDF1RHH0NRFklGWEN0CgxEXXVbA0oAFy9WUxgSGRtVWU1HBBFWQwJHCFdUVxVKQVJWRlkWShwVXBpxZBIZG1JITVALFloOVkcDRhYSFUpBWEpsRQdLEUUDWV1TQhcDFQAbGUcIUhlnBlYKDARUEgpeV0AVWBpWB1YIEhoSWFZZWU1aFzpDCFxHA0ZbVQdWQUw=
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/C63W6E" group-title="FILMES",MEGAPIX
@@ -301,6 +306,10 @@ http://cdnapi.kaltura.com:80/p/0/sp/0/playManifest/entryId/1_lld8saie/format/app
 
 #EXTINF:0 tvg-logo="https://goo.gl/JwGnkz" group-title="VARIEDADES",SHOPTIME ALTERNATIVO
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1828041/e/1_lld8saie/sd/10000/t/66vCvDIjPGEOL74WH8BlFA/index-s32.m3u8
+
+
+#EXTINF:0 tvg-logo="https://blogdoguinhocesar.files.wordpress.com/2015/09/canal-space.png" group-title="FILMES",SPACE
+http://195.181.162.206/live/Brasil/TEST/8293.ts?token=SBUKWRZfRAISBAhTXwECCwFTUwdWAVJfVlIFDwVbB18KDgAOXAACCFYUHBdKQ0JcVAg6WgUaXwFXUFYbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxXUgdSVAAVEUcLXEcNRAEEBwMXFRVVQUEAF10AVDpdARQIVANBC1dGWw4UR1gIZ1RTXVRXUxIDF1RHH0NRFklGWEN0CgxEXXVbA0oAFy9WUxgSGRtVWU1HBBFWQwJHCFdUVxVKQVJWRlkWShwVXBpxZBIZG1JITVALFloOVkcDRhYSFUpBWEpsRQdLEUUDWV1TQhcDFQAbGUcIUhlnBlYKDARUEgpeV0AVWBpWB1YIEhoSWFZZWU1aFzpDCFxHA0ZbVQdWQUw=
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/vrYoYT" group-title="FILMES",TC ACTION HD
@@ -543,8 +552,8 @@ https://d158ijmq5mc2ll.cloudfront.net/7dias/9d266a90-8c12-11e7-b85e-2d800f1a7390
 http://stream.africam.com:1935/tm/tm.stream_360p/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
-
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",CAMERA AO VIVO DE COBRA
+https://stream-delta.dropcam.com/nexus_aac/68ebe635c92e46a8922b827199854d25/chunklist_w2061127975.m3u8
 
 #EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
 
@@ -1150,6 +1159,220 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/GDZLL2014.mp4?STANI
 
 
 #EXTINF:0 tvg-logo="" group-title="",
+
+
+
+############################AS AVENTURAS DE TIM-TIM#################################
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",01 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=d6e5d6ef0f0b02d9
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",02 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=cc8e59d9e1ffc400
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",03 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=91aa076a76f3f3e4
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",04 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=ff9008fd98d44a01
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",05 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=bc22ed3a819edb75
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",06 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=ac40db50dca007c6
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",07 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=b1fd88b7b259f00e
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",08 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=6879b180491ac36d
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",09 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=adbc0b2987fd2122
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",10 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=7d876c9f2879cf8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",11 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=ce4d8c4b03e4426e
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",12 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=dc321d255cafabd5
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",13 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=2e0143943e127564
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",14 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=78cd89202ff8035f
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",15 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=daa1783352828b87
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",16 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=9a6710ef3ecde7ab
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",17 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=eec84d3bfe602f80
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",18 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=ee5a83d91b0243e9
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",19 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=ec8b0941fae3da84
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",20 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=e71b97986312e52f
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",21 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=7ae6b80f77ffeda
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",22 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=8bbbdab616bf7f89
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",23 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=b43204a8be91bb3d
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",24 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=d44038fb6d774104
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",25 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=ff734bd7d96f8a70
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",26 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=7d99b9be2c20f616
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",27 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=3f91580432fbba66
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",28 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=3d403d25ae47898f
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",29 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=6521cd8a964952c9
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",30 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=4c7299e85508fb9e
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",31 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=47ce9867b9f8df71
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",32 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=c01749136134344f
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",33 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=8e5de0ea5d7d6a05
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",34 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=1c4213bfbf84ccde
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",35 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=d67a94021eb544f7
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",36 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=3ad4515f8826d8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",37 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=58be3bf3813ff3c5
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",38 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=78775026b8706a9a
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USfJOdo.jpg" group-title="As Aventuras de Tintim",39 As Aventuras de Tintim
+http://www.blogger.com/video-play.mp4?contentId=5203feced8981ff0
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iSuMGvm.jpg" group-title="As Aventuras de Tintim",EP-1 As Aventuras de Tintim: Os Prisioneiros do Sol
+http://www.blogger.com/video-play.mp4?contentId=613870fa00a3dd39
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iSuMGvm.jpg" group-title="As Aventuras de Tintim",EP-2 As Aventuras de Tintim: Os Prisioneiros do Sol
+http://www.blogger.com/video-play.mp4?contentId=637bffb7903d6bba
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iSuMGvm.jpg" group-title="As Aventuras de Tintim",EP-3 As Aventuras de Tintim: Os Prisioneiros do Sol
+http://www.blogger.com/video-play.mp4?contentId=405d70b06d3fcb4e
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BYgnsg1.jpg" group-title="As Aventuras de Tintim",EP-1 Tintin e o lago dos tubarÃµes
+http://www.blogger.com/video-play.mp4?contentId=37eff0ea0473d42d
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BYgnsg1.jpg" group-title="As Aventuras de Tintim",EP-2 Tintin e o lago dos tubarÃµes
+http://www.blogger.com/video-play.mp4?contentId=84a4236f580c4a84
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BYgnsg1.jpg" group-title="As Aventuras de Tintim",EP-3 Tintin e o lago dos tubarÃµes
+http://www.blogger.com/video-play.mp4?contentId=5cd2ba4e7bc3a3b0
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nB8cL5e.jpg" group-title="As Aventuras de Tintim",EP-1 As Aventuras de Tintim - O Caso Girassols
+http://www.blogger.com/video-play.mp4?contentId=accaaa7a07551915
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nB8cL5e.jpg" group-title="As Aventuras de Tintim",EP-2 As Aventuras de Tintim - O Caso Girassols
+http://www.blogger.com/video-play.mp4?contentId=30796a78cedc79
+
+
+
+
+
+############################GALINHA PINTADINHA#################################
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Z0jPuKm.jpg" group-title="GALINHA PINTADINHA",Vol.1 Galinha Pintadinha
+http://www.blogger.com/video-play.mp4?contentId=3b588e9cb17b49f6
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wqhoqNG.jpg" group-title="GALINHA PINTADINHA",Vol.2 Galinha Pintadinha
+http://www.blogger.com/video-play.mp4?contentId=3cbb3cea225a1149
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MBtRVAO.jpg" group-title="GALINHA PINTADINHA",Vol.3 Galinha Pintadinha
+http://www.blogger.com/video-play.mp4?contentId=10ac4850a3f90264
+
+
 
 
 ############################COLETÂNIA DESENHOS BIBLICOS#################################
@@ -2128,9 +2351,6 @@ http://www.blogger.com/video-play.mp4?contentId=6e95bbc07e13b532
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/tuKLhD6.jpg" group-title="Caverna do Dragão",27 Caverna do Dragão
 http://www.blogger.com/video-play.mp4?contentId=ec2ce5653ac1b90
-
-
-
 
 
 
@@ -7689,6 +7909,842 @@ http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP0626.MP4
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 627
 http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/ffa1f5cd.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 628
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/628.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 629
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/629.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 630
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/630.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 631
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/631.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 632
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/632.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 633
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/633.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 634
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/634.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 635
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/635.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 636
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/636.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 637
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/637.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 638
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/638.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 639
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/639.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 640
+http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/6b7837e4.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 641
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/641.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 642
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/642.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 643
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/643.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 644
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/644.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 645
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/645.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 646
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/646.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 647
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/647.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 648
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/648.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 649
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/649.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 650
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/650.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 651
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/651.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 652
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/652.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 653
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/653.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 654
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/654.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 655
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/655.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 656
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/656.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 657
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/657.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 658
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/658.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 659
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/659.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 660
+http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/870392ec.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 661
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/661.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 662
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/662.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 663
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/663.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 664
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/664.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 665
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/665.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 666
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/666.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 667
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/667.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 668
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/668.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 669
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/669.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 670
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/670.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 671
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/671.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 672
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/672.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 673
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/673.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 674
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/674.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 675
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/675.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 676
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/676.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 677
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/677.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 678
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/678.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 679
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/679.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 680
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/680.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 681
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/681.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 682
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/682.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 683
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/683.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 684
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/684.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 685
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/685.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 686
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/686.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 687
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/687.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 688
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/688.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 689
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/689.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 690
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/690.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 691
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/691.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 692
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/692.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 693
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/693.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 694
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/694.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 695
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/695.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 696
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/696.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 697
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/697.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 698
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/698.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 699
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/699.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 700
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/700.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 701
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/701.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 702
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/702.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 703
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/703.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 704
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/704.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 705
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/705.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 706
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/706.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 707
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/707.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 708
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/708.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 709
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/709.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 710
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/710.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 711
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/711.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 712
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/712.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 713
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/713.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 714
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/714.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 715
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/715.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 716
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/716.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 717
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/717.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 718
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/718.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 719
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/719.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 720
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/720.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 721
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/721.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 722
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/722.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 723
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/723.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 724
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/724.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 725
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/725.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 726
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/726.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 727
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/727.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 728
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/728.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 729
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/729.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 730
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/730.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 731
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/731.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 732
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/732.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 733
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/733.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 734
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/734.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 735
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/735.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 736
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/736.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 737
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/737.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 738
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/738.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 739
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/739.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 740
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/740.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 741
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/741.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 742
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/742.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 743
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/743.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 744
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/744.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 745
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/745.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 746
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/746.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 747
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/747.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 748
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/748.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 749
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/749.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 750
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/750.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 751
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/751.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 752
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/752.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 753
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/753.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 754
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/754.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 755
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/755.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 756
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/756.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 757
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/757.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 758
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/758.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 759
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/759.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 760
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/760.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 761
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/761.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 762
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/762.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 763
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/763.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 764
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/764.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 765
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/765.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 766
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/766.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 767
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/767.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 768
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/768.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 769
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/769.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 770
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/770.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 771
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/771.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 772
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/772.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 773
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/773.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 774
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/774.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 775
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/775.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 776
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/776.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 777
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/777.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 778
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/778.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 779
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/779.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 780
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/780.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 781
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/781.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 782
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/782.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 783
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/783.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 784
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/784.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 785
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/785.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 786
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/786.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 787
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/787.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 788
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/788.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 789
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/789.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 790
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/790.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 791
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/791.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 792
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/792.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 793
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/793.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 794
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/794.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 795
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/795.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 796
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/796.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 797
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/797.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 798
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/798.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 799
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/799.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 800
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/800.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 801
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/801.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 802
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/802.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 803
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/803.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 804
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/804.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 805
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/805.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 806
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/806.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 807
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/807.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 808
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/808.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 809
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/809.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 810
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/810.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 811
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/811.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 812
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/812.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 813
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/813.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 814
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/814.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 815
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/815.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 816
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/816.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 817
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/817.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 818
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/818.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 819
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/819.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 820
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/820.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 821
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/821.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 822
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/822.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 823
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/823.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 824
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/824.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 825
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/825.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 826
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/826.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 827
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/827.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 828
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/828.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 829
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/829.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 830
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/830.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 831
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/831.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 832
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/832.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 833
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/833.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 834
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/834.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 835
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/835.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 836
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/836.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 837
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/837.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 838
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/838.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 839
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/839.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 840
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/840.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 841
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/841.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 842
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/842.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 843
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/843.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 844
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/844.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 845
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/845.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 846
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/846.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 847
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/847.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 848
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/848.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 849
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/849.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 850
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/850.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 851
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/851.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 852
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/852.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 853
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/853.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 854
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/854.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 855
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/855.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 856
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/856.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 857
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/857.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 858
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/858.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 859
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/859.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 860
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/860.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 861
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/861.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 862
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/862.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 863
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/863.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 864
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/864.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 865
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/865.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 866
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/866.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 867
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/867.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 868
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/868.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 869
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/869.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 870
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/870.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 871
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/871.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 872
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/872.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 873
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/873.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 874
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/874.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 875
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/875.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 876
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/876.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 877
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/877.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 878
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/878.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 879
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/879.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 880
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/880.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 881
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/881.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 882
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/882.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 883
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/883.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 884
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/884.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 885
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/885.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 886
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/886.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 887
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/887.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 888
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/888.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 889
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/889.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 890
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/890.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 891
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/891.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 892
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/892.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 893
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/893.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 894
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/894.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 895
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/895.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 896
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/896.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 897
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/897.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 898
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/898.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 899
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/899.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 900
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/900.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 901
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/901.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 902
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/902.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 903
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/903.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 904
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/904.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 905
+http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/905.MP4
+
 
 
 
