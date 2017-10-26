@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="" group-title="",LISTA ATUALIZADA 17:06 25/10/2017
+#EXTINF:0 tvg-logo="" group-title="",LISTA ATUALIZADA 14:50 26/10/2017
 http://0.0.0.0
 
 
@@ -82,7 +82,6 @@ http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="DESENHOS",CARTOON NETWORK HD
-http://195.181.162.206/live/Brasil/TEST/8395.ts?token=SBUKWRZfRAISUAYDXwZWDwRWV1ECDQZdVltYU1RbAFgAUQQLXVJUWwUUHBdKQ0JcVAg6WgUaXwFXW1UbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxWVwFQVwcVEUcLXEcNRAoIAgIFGxsSXE0RAEEPWQlmAAcXXgUGEwNdQg5USRUJVm9SVVhYWVQbD0dUEU0aDEoUQFsVJQ9eTFdxDlkXUkZxXlUeFxUVUlBBFwRHBBpfG1VTUQ9ETxNaXEIMTBdORAISd2IXFRVVQUEAC0AIVwsbXkAVRERPE1BAaBBdFkMUXVFbVUcbDRIJF0lHXgBAOloLDA9SBRdYVl1EQAJHBFYIABQcF1RYXlBBChdsEVEBG15AUw9SUgcbTg==
 
 
 #EXTINF:0 tvg-logo="" group-title="DESENHOS",CARTOON NETWORK
@@ -1117,6 +1116,74 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPRCORSGT.mp4
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/UM698VC.jpg" group-title="LANÇAMENTOS",GODZILLA(2014)
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/GDZLL2014.mp4?STANIPTV
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/Lwu2Poq.jpg" group-title="LANÇAMENTOS",RESIDENT EVIL 1: O HOSPEDE MALDITO
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REVIL01.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/d9IsUPB.jpg" group-title="LANÇAMENTOS",RESIDENT EVIL 2: APOCALIPSE
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REVIL02.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/7pzUj3A.jpg" group-title="LANÇAMENTOS",RESIDENT EVIL 3: A EXTINÇÃO  
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REVIL03.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/3jzjIlc.jpg" group-title="LANÇAMENTOS",RESIDENT EVIL 4: RECOMEÇO
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REVIL04.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/mQkxPX6.jpg" group-title="LANÇAMENTOS",RESIDENT EVIL 5: RETRIBUIÇÃO
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REVIL05.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/9O4hBqe.jpg" group-title="LANÇAMENTOS",RESIDENT EVIL: CAPITULO FINAL
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/REVIL06.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/XGEyDnL.png" group-title="LANÇAMENTOS",RESIDENT EVIL: CONDENAÇÃO
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REVILCNDNCAO.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/08HLySx.jpg" group-title="LANÇAMENTOS",RESIDENT EVIL: DEGENERAÇÃO
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REVILDGNRC.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nqhJrDW.jpg" group-title="LANÇAMENTOS",RESIDENT EVIL VENDETTA
+http://94.242.55.155/Brpt/Resident.evil.A.Vingan%C3%A7a.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4
+
+#EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
 
 
 #EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
@@ -8879,6 +8946,18 @@ http://zeus.netcine.tv/httpdelivery/lucifer/02leg/18-ALTO.mp4
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" ,LUCIFER LEG T03|EP01
 http://zeus.netcine.tv/httpdelivery/lucifer/03leg/001-ALTO.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" , LUCIFER T03|EP02 (LEG)
+http://zeus.netcine.tv/httpdelivery/lucifer/03leg/02-ALTO.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" , LUCIFER T03|EP03 (LEG)
+http://zeus.netcine.tv/httpdelivery/lucifer/03leg/03-ALTO.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/R232tych.jpg" group-title="LUCIFER" , LUCIFER T03|EP04 (LEG)
+http://zeus.netcine.tv/httpdelivery/lucifer/03leg/04-ALTO.mp4
 
 
 
@@ -17795,15 +17874,6 @@ http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer07/ondemand/BBT05EP16.mp4
 
 
 
-
-
-
-
-
-
-
-
-
 ############################SMALLVILLE#################################
 
 
@@ -18566,7 +18636,8 @@ http://zeus.netcine.tv/sobdemanda/netcine-bucket/mrrobot/02leg/12-ALTO.mp4
 http://zeus.netcine.tv/httpdelivery/mrrobot/03leg/001-ALTO.mp4
 
 
-
+#EXTINF:-1 tvg-logo="http://staniptv.com/mrrobot" group-title="SERIE - MR. ROBOT - LEG", MR. ROBOT S3|EP02 
+http://zeus.netcine.tv/httpdelivery/mrrobot/03leg/002-ALTO.mp4
 
 ############################PRISON BREAK#################################
 
@@ -21004,8 +21075,14 @@ http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/ARROWT05EP22.mp4
 http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/ARROWT05EP23.mp4
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/PysT8xnh.jpg" group-title="SERIE - ARROW", ARROW T6|EP01
-http://zeus.netcine.tv/httpdelivery/arrow/06leg/01-ALTO.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PysT8xnh.jpg" group-title="ARROW", ARROW T6|EP01
+http://zeus.netcine.tv/httpdelivery/arrow/06leg/01-ALTO.mp4
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PysT8xnh.jpg" group-title="ARROW", ARROW T6|EP02 (LEG)
+http://zeus.netcine.tv/httpdelivery/arrow/06leg/02-ALTO.mp4
+
+
 
 ############################TODO MUNDO ODEIA O CHRIS#################################
 
@@ -21455,161 +21532,7 @@ http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/TDMNDOCT04EP22.mp4
 #EXTINF:0 tvg-logo="" group-title="",
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-############################CÂMERAS#################################
-
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Rio de Janeiro - Copacabana
-http://video3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Rio de Janeiro - Copacabana 2 ANGULO
-http://hddn01.skylinewebcams.com/06041002MXE7-1507401275323.ts
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Blumenal
-http://www.streambnu.info:1935/blumenau1/default.stream/chunklist_w1615629535.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Aeroporto de Congonhas de São Paulo
-http://d1h84if288zv9w.cloudfront.net/7dias/0be3_135.stream/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Av. Vinte e Três de Maio Trânsito
-https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_287.stream/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Ubatuba - Praia Enseaba 
-https://d1h84if288zv9w.cloudfront.net/7dias/0be3_204.stream/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Recife - Boa Viagem 
-https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_595.stream/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Arena Allianz Parque - Palestra Itália
-https://d1h84if288zv9w.cloudfront.net/7dias/0be3_1093.stream/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Avenida Atlântica em São Francisco do Sul - SC
-https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_1036.stream/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Rua Santa Efigênia
-https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_482.stream/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Av. Interlagos - Shopping Interlagos
-https://d1h84if288zv9w.cloudfront.net/7dias/0be3_801.stream/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Marginal Pinheiros Trânsito
-https://d1h84if288zv9w.cloudfront.net/7dias/0be3_69.stream/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Guarujá - Praia da Enseaba 
-https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_151.stream/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Ubatuba - Praia do Sapê
-https://d1h84if288zv9w.cloudfront.net/7dias/0be3_1242.stream/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Pico do gavião - Andradas MG
-rtmp://streaming55.sitehosting.com.br/picodogaviao//camera.stream
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",TIMES SQUARE HD
-https://video3.earthcam.com/fecnetwork/9974.flv/chunklist_w1366511516.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",PRAIA AO VIVO
-rtmp://video1.earthcam.com/earthcamtv/Stream1
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",SANTO AMARO
-http://video-auth1.iol.pt:1935/beachcam/santoamaro/chunks.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",SÃO FRANCISCO- EUA
-http://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",GERMANY
-http://stream.livespotting.tv/windit-edge/vv101_720p.stream/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",TEUFELSRAD- PARQUE DE DIVERSÃO
-http://stream.livespotting.tv/windit-edge/LS_3553a_720p.stream/chunklist_w1561253585.m3u8?sa=livespotting.tv
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",LOWENBRAU
-http://stream.livespotting.tv/windit-edge/LS_a74ba_720p.stream/chunklist_w1749211580.m3u8?sa=livespotting.tv
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",CHICAGO
-https://video3.earthcam.com/fecnetwork/13661.flv/chunklist_w500853770.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",MOUNT RUSHMORE
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
-
-
 #EXTINF:0 tvg-logo="" group-title="",
-
-
-
-
 
 
 #EXTINF:0 tvg-logo="" group-title="",
