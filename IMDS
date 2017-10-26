@@ -125,7 +125,7 @@ http://195.181.162.206/live/Brasil/TEST/8393.ts?token=SBUKWRZfRAISUAYDXwZWDwRWV1
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/RL9GsB" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE
-http://163.172.218.177:2200/BR1/discoveryscience-br/index.m3u8
+
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/iKu1zx" group-title="DESENHOS",DISNEY JUNIOR
@@ -144,10 +144,6 @@ http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
 http://tv.ec.cx:1935/redecanais-stream-fox/myStream/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://goo.gl/3FzQfQ" group-title="TV ABERTA",GLOBO
-http://158.58.172.5:8081/look/sptvs/playlist.m3u8
-
-
 #EXTINF:0 tvg-logo="https://goo.gl/3FzQfQ" group-title="TV ABERTA",GLOBO ALTERNATIVO
 
 
@@ -156,7 +152,7 @@ http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/live.m3u8
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/3FzQfQ" group-title="TV ABERTA",GLOBO NORDESTE ALTERNATIVO
-http://158.58.172.5:8081/look/sptvs/playlist.m3u8?MWINFO
+
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/3FzQfQ" group-title="TV ABERTA",GLOBO SP
@@ -234,12 +230,11 @@ http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/N5Kt6q" group-title="VARIEDADES",POLISHOP
-http://mm4td7.cloud.influxis.com:1935/mm4td7_live/polishoptv/livestream.m3u8
+
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/PPsKmQ" group-title="TV ABERTA",RECORD SD
-http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8?
-
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/PPsKmQ" group-title="TV ABERTA",RECORD SP
@@ -364,11 +359,11 @@ http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/66bdoy" group-title="TV ABERTA",TV EVANGELIZAR
-http://192.99.200.48:1935/evangelizar/tv/live.m3u8
+
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/DgcpF9" group-title="TV ABERTA",TV FUTURA
-http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8
+
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/DgcpF9" group-title="TV ABERTA",TV FUTURA ALTERNATIVO
@@ -412,18 +407,6 @@ http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
 http://video3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Rio de Janeiro - Copacabana 2 ANGULO
-http://hddn01.skylinewebcams.com/06041002MXE7-1507401275323.ts
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Blumenal
-http://www.streambnu.info:1935/blumenau1/default.stream/chunklist_w1615629535.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Aeroporto de Congonhas de São Paulo
-http://d1h84if288zv9w.cloudfront.net/7dias/0be3_135.stream/playlist.m3u8
-
-
 #EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Av. Vinte e Três de Maio Trânsito
 https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_287.stream/playlist.m3u8
 
@@ -432,20 +415,8 @@ https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_287.stream/playlist.m3u8
 https://d1h84if288zv9w.cloudfront.net/7dias/0be3_204.stream/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Recife - Boa Viagem 
-https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_595.stream/playlist.m3u8
-
-
 #EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Arena Allianz Parque - Palestra Itália
 https://d1h84if288zv9w.cloudfront.net/7dias/0be3_1093.stream/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Avenida Atlântica em São Francisco do Sul - SC
-https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_1036.stream/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Rua Santa Efigênia
-https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_482.stream/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Av. Interlagos - Shopping Interlagos
@@ -454,26 +425,6 @@ https://d1h84if288zv9w.cloudfront.net/7dias/0be3_801.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Marginal Pinheiros Trânsito
 https://d1h84if288zv9w.cloudfront.net/7dias/0be3_69.stream/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Guarujá - Praia da Enseaba 
-https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_151.stream/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Ubatuba - Praia do Sapê
-https://d1h84if288zv9w.cloudfront.net/7dias/0be3_1242.stream/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Pico do gavião - Andradas MG
-rtmp://streaming55.sitehosting.com.br/picodogaviao//camera.stream
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",TIMES SQUARE HD
-https://video3.earthcam.com/fecnetwork/9974.flv/chunklist_w1366511516.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",PRAIA AO VIVO
-rtmp://video1.earthcam.com/earthcamtv/Stream1
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",SANTO AMARO
@@ -496,19 +447,8 @@ http://stream.livespotting.tv/windit-edge/LS_3553a_720p.stream/chunklist_w156125
 http://stream.livespotting.tv/windit-edge/LS_a74ba_720p.stream/chunklist_w1749211580.m3u8?sa=livespotting.tv
 
 
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",CHICAGO
-https://video3.earthcam.com/fecnetwork/13661.flv/chunklist_w500853770.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Avenida Herculano Bandeira, 636
-https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_1394.stream/chunklist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Avenida Industrial, n° 601
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",TIME SQUARE ALTO
-https://video3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist_w676375425.m3u8
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",TIME SQUARE
+https://video3.earthcam.com/fecnetwork/9974.flv/chunklist_w1366511516.m3u8
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Ilhabela Vista Sul
@@ -536,7 +476,6 @@ https://d1xwbsse9lcavw.cloudfront.net/aovivo/6b6e5fd0-9604-11e6-ba7e-fb62ba03fc2
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Avenida Getúlio Vargas, nº 160
-https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_895.stream/chunklist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Ninho das Águias
@@ -553,6 +492,7 @@ http://stream.africam.com:1935/tm/tm.stream_360p/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",CAMERA AO VIVO DE COBRA
 https://stream-delta.dropcam.com/nexus_aac/68ebe635c92e46a8922b827199854d25/chunklist_w2061127975.m3u8
+
 
 #EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
 
@@ -660,10 +600,6 @@ http://192.99.150.31:9125/stream?
 
 
 
-
-
-
-
 #################################FILMES#################################################
 
 
@@ -708,10 +644,6 @@ http://assistir.querofilmehd.com/filmes/Diario.de.um.Banana.Caindo.na.Estrada.20
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/nlrwV4F.jpg" group-title="LANÇAMENTOS",PLANETA DOS MACACOS:A GUERRA(DUB)
 http://zeus.netcine.tv/httpdelivery/filmes2017/PDMAG-ALTO.mp4
-
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/ZhvN5aD.jpg" group-title="LANÇAMENTOS",DUPLA EXPLOSIVA
-http://filmesonlineflix.club/f/Dupla.Explosiva.2017.HDRIP.Dublado.mp4
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/ma738R" group-title="LANÇAMENTOS",VINGANÇA EXPLOSIVA
@@ -808,14 +740,6 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OSNHRDSANSASDSTRS.m
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/uaL7gRt.jpg" group-title="LANÇAMENTOS",SENHOR DOS ANEIS: O RETORNO DO REI(2003)
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OSNHRDSANSASDSTRS.mp4
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/ALt4bf" group-title="LANÇAMENTOS",ADRENALINA 
-http://185.22.172.209/brpt/Adrenalina%20(2006).mp4
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/odzMas" group-title="LANÇAMENTOS",ADRENALINA 2
-http://185.22.172.209/brpt/Adrenalina%202.mp4
 
 
 #EXTINF:0 tvg-logo="s://i.imgur.com/ivn04Rs.png" group-title="LANÇAMENTOS",O CULTO DE CHUCKY(LEG)
@@ -1106,10 +1030,6 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CAPTAMRC3.mp4
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/HRZNTPRFNDSTRDGLF.mp4
 
 
-#EXTINF:0 tvg-logo="https://goo.gl/msxXjV" group-title="LANÇAMENTOS",TROIA: O FILME
-http://185.38.12.41/sec/1508398011/333831311f1a04039949b7b47d3f87096dffa0099479e672/ivs/fa/a3/f0ec6c468eb7/hls/tracks-3,4/index.m3u8
-
-
 #EXTINF:0 tvg-logo="https://goo.gl/FTVvPK" group-title="LANÇAMENTOS",OPERAÇÃO RESGATE
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPRCORSGT.mp4
 
@@ -1153,7 +1073,9 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REVILDGNRC.mp4
 #EXTINF:0 tvg-logo="http://i.imgur.com/nqhJrDW.jpg" group-title="LANÇAMENTOS",RESIDENT EVIL VENDETTA
 http://94.242.55.155/Brpt/Resident.evil.A.Vingan%C3%A7a.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4
 
-#EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
+
+#EXTINF:0 tvg-logo="http://i.ytimg.com/vi/M--k3bfLMaE/mqdefault.jpg" group-title="LANÇAMENTOS",HELENA DE TROIA
+http://srv78.clipconverter.cc/download/2rWVaoyJwGOwZW9om5ebampm5KWmqXBw4pSYaHJgnWtsZW20qc%2FMqHyf1qiZpa2d2A%3D%3D/Helena%20de%20Troia.mp4
 
 
 #EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
@@ -1226,6 +1148,151 @@ http://94.242.55.155/Brpt/Resident.evil.A.Vingan%C3%A7a.2017.720p.BluRay.x264.DU
 
 
 #EXTINF:0 tvg-logo="" group-title="",
+
+
+############################DOCUMENTÁRIOS COMPLETOS#################################
+
+
+
+
+#EXTINF:0 tvg-logo="http://i.ytimg.com/vi/ioySfBSKjSg/mqdefault.jpg" group-title="DOCUMENTÁRIOS COMPLETOS",O CORREDOR DA MORTE (DISCOVERY CHANNEL)
+http://srv50.clipconverter.cc/download/rJmqrKJdrISwZW9onJiYaHFl5KWmqW5o4pSYaHJgnWRsZ3K0qc%2FMqHyf1qiZpa2d2A%3D%3D/O%20Corredor%20da%20Morte%20%7C%20Dublado%20%5BHD%5D%20Discovery%20Channel.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.ytimg.com/vi/jGMJQgohQPk/mqdefault.jpg" group-title="DOCUMENTÁRIOS COMPLETOS",O LUGAR MAIS PROFUNDO DA TERRA
+http://srv49.clipconverter.cc/download/mZiUfX6XoYiwZnBunZSTcW1p5KWmqW1x4pSYaHJgnWVqbGy0qc%2FMqHyf1qiZpa2d2A%3D%3D/O%20Lugar%20Mais%20Profundo%20da%20Terra%20-%20Document%C3%A1rio%20Dublado.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.ytimg.com/vi/YVhYjjOMumg/mqdefault.jpg" group-title="DOCUMENTÁRIOS COMPLETOS",O LADO ATERRORIZANTE DA TERRA
+http://srv79.clipconverter.cc/download/zMi5bW2GraewZm1xmpaXcXJp5KWmqXBx4pSYaHJgnWVsbHC0qc%2FMqHyf1qiZpa2d2A%3D%3D/O%20Lado%20aterrorizante%20do%20universo%20document%C3%A1rio%20dublado.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.ytimg.com/vi/8elsxHFCl_Q/mqdefault.jpg" group-title="DOCUMENTÁRIOS COMPLETOS",NAO ESTAMOS SOS
+http://srv48.clipconverter.cc/download/rqXLqHFnzJWwZmtvm5iXaXJi5KWmqW1w4pSYaHJgnWZkZ3G0qc%2FMqHyf1qiZpa2d2A%3D%3D/N%C3%A3o%20Estamos%20S%C3%B3s%20-%20Document%C3%A1rio%20Dublado.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.ytimg.com/vi/oePUImav7gg/mqdefault.jpg" group-title="DOCUMENTÁRIOS COMPLETOS",ACESSO SECRETO OVNIS
+http://srv77.clipconverter.cc/download/tKXPh4eR3qmwZXBslpSbaHFh5KWmqXBv4pSYaHJgnWZmaG%2B0qc%2FMqHyf1qiZpa2d2A%3D%3D/Document%C3%A1rio%20Acesso%20Secreto%20%C3%93VNIs%20e%20UFOs%20Dublado.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.ytimg.com/vi/e8OQkZwBevw/mqdefault.jpg" group-title="DOCUMENTÁRIOS COMPLETOS",CONTATO EXTRATERRESTE EP1
+http://srv33.clipconverter.cc/download/1dm3saBzrn%2BwZnJolpiWbWll5KWmqWxr4pSYaHJgnWhkZXK0qc%2FMqHyf1qiZpa2d2A%3D%3D/Contato%20Extraterrestre%20-%201%C2%AA%20Temporada%20EP%2010.mp4
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",CONTATO EXTRATERRESTE EP2
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",CONTATO EXTRATERRESTE EP3
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",CONTATO EXTRATERRESTE EP4
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",CONTATO EXTRATERRESTE EP5
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",CONTATO EXTRATERRESTE EP6
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",CONTATO EXTRATERRESTE EP7
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",CONTATO EXTRATERRESTE EP8
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",CONTATO EXTRATERRESTE EP9
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
 
 
 
