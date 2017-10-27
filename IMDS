@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="" group-title="",LISTA ATUALIZADA 00:30 27/10/2017
+#EXTINF:0 tvg-logo="" group-title="",LISTA ATUALIZADA 16:30 27/10/2017
 http://0.0.0.0
 
 
@@ -100,6 +100,7 @@ http://200.189.113.201:80/hls/tve.m3u8
 
 
 
+
 #EXTINF:0 tvg-logo="https://goo.gl/Vpd4BV" group-title="DESENHOS",DISNEY XD
 http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/playlist.m3u8
 
@@ -151,12 +152,14 @@ http://tv.ec.cx:1935/redecanais-stream-fox/myStream/playlist.m3u8
 http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/live.m3u8
 
 
-#EXTINF:0 tvg-logo="https://goo.gl/3FzQfQ" group-title="TV ABERTA",GLOBO NORDESTE ALTERNATIVO
+#EXTINF:0 tvg-logo="https://goo.gl/3FzQfQ" group-title="TV ABERTA",GLOBO RJ
+http://95.141.32.213:8081/look/globol/playlist.m3u8
 
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/3FzQfQ" group-title="TV ABERTA",GLOBO SP
-http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/chunklist.m3u8
+http://158.58.172.5:8081/look/sptvl/playlist.m3u8
+
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/Jn2aAQ" group-title="NOTICIAS",GLOBO NEWS
@@ -278,6 +281,11 @@ http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8
 http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/live.m3u8
 
 
+#EXTINF:0 tvg-logo="https://goo.gl/NWvdjo" group-title="TV ABERTA",SBT GO HD
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
+
+
+
 #EXTINF:0 tvg-logo="https://goo.gl/NWvdjo" group-title="TV ABERTA",SBT HD
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w1742879983.m3u8
 
@@ -379,6 +387,10 @@ http://185.152.66.69/live/Brasil/TEST/8247.ts?token=SBUKWRZfRAISUAEDCAZSAAJcVARS
 
 
 
+#EXTINF:0 tvg-logo="https://lut.im/RRGSLkRCr8/KBpnydHkgy2os13K.png" group-title="FILMES",UNIVERSAL CHANNEL
+http://tv.ec.cx:1935/redecanais-stream-universal/myStream/playlist.m3u8   	
+
+
 #EXTINF:0 tvg-logo="https://goo.gl/Xw6ZzY" group-title="VARIEDADES",VIVA HD
 
 
@@ -387,7 +399,6 @@ http://195.181.162.205/live/Brasil/TEST/8248.ts?token=SBUKWRZfRAISUwYGDVNTDwJXVg
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/Xw6ZzY" group-title="VARIEDADES",VIVA ALTERNATIVO
-
 
 
 
@@ -1074,27 +1085,32 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REVILDGNRC.mp4
 http://94.242.55.155/Brpt/Resident.evil.A.Vingan%C3%A7a.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4
 
 
-#EXTINF:0 tvg-logo="http://i.ytimg.com/vi/M--k3bfLMaE/mqdefault.jpg" group-title="LANÇAMENTOS",HELENA DE TROIA
-http://srv78.clipconverter.cc/download/2rWVaoyJwGOwZW9om5ebampm5KWmqXBw4pSYaHJgnWtsZW20qc%2FMqHyf1qiZpa2d2A%3D%3D/Helena%20de%20Troia.mp4
+#EXTINF:0 tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w185/h6hbYWWYx9kOHQZANwg5lV3SWl.jpg" group-title="LANÇAMENTOS",TROIA: O FILME
+http://assistir.querofilmehd.com/filmes/Troy%20(2004)%20BDRip%201080%20DC%20-%20Dual%20Audio%20By%20Koral.mp4
 
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/KSaYmQT.jpg" group-title="LANÇAMENTOS",TRANSFORMERS
 http://zeus.netcine.tv/httpdelivery/filmes2017/CAVALEIRO2017DUB-ALTO.mp4
 
 
-#EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
+#EXTINF:0 tvg-logo="http://i.imgur.com/D603UUa.jpg" group-title="LANÇAMENTOS",MISSAO IMPOSSIVEL 1
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MSAOIMPSVEL01.mp4
 
 
-#EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
+#EXTINF:0 tvg-logo="http://i.imgur.com/dAnGidX.jpg" group-title="LANÇAMENTOS",MISSAO IMPOSSIVEL 2
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MSAOIMPSVEL02.mp4
 
 
-#EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
+#EXTINF:0 tvg-logo="http://i.imgur.com/I1iunAn.jpg" group-title="LANÇAMENTOS",MISSAO IMPOSSIVEL 3
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MSAOIMPSVEL03.mp4
 
 
-#EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
+#EXTINF:0 tvg-logo="http://i.imgur.com/rkxC4UX.jpg" group-title="LANÇAMENTOS",MISSAO IMPOSSIVEL: PROTOCOLO FANTASMA
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MSAOIMPSVEL04.mp4?STANIPTV
 
 
-#EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
+#EXTINF:0 tvg-logo="http://i.imgur.com/yD9VLJV.jpg" group-title="LANÇAMENTOS",MISSAO IMPOSSIVEL: NAÇÃO SECRETA
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MSAOIMPSVEL05.mp4?STANIPTV
 
 
 #EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
@@ -1153,36 +1169,327 @@ http://zeus.netcine.tv/httpdelivery/filmes2017/CAVALEIRO2017DUB-ALTO.mp4
 
 
 
-############################OS SETE MONSTRINHOS#################################
-
-#EXTINF:0 tvg-logo="" group-title="OS SETE MONSTRINHOS",
+############################DOCUMENTÁRIOS COMPLETOS#################################
 
 
-#EXTINF:0 tvg-logo="" group-title="OS SETE MONSTRINHOS",
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/bq5Kj4I.png"" group-title="DOCUMENTÁRIOS COMPLETOS",A HISTORIA DA ELETRICIDADE
+http://archive.org/download/A.Historia.da.Eletricidade-Dublado.720p/A%20hist%c3%b3ria%20da%20Eletricidade%20-%20ep1%20Faisca%20-%20Dublado%20720p.mp4
 
 
-#EXTINF:0 tvg-logo="" group-title="OS SETE MONSTRINHOS",
+#EXTINF:0 tvg-logo="http://i.imgur.com/bq5Kj4I.png"" group-title="DOCUMENTÁRIOS COMPLETOS",A HISTORIA DA ELETRICIDADE
+http://archive.org/download/A.Historia.da.Eletricidade-Dublado.720p/A%20hist%c3%b3ria%20da%20Eletricidade%20-%20ep2%20A%20Era%20da%20Inven%c3%a7%c3%a3o%20-%20Dublado%20720p.mp4
 
 
-#EXTINF:0 tvg-logo="" group-title="OS SETE MONSTRINHOS",
+#EXTINF:0 tvg-logo="http://i.imgur.com/bq5Kj4I.png"" group-title="DOCUMENTÁRIOS COMPLETOS",A HISTORIA DA ELETRICIDADE
+http://archive.org/download/A.Historia.da.Eletricidade-Dublado.720p/A%20hist%c3%b3ria%20da%20Eletricidade%20-%20ep3%20Revela%c3%a7%c3%b5es%20e%20Revolu%c3%a7%c3%b5es%20-%20Dublado%20720p.mp4
 
 
-#EXTINF:0 tvg-logo="" group-title="OS SETE MONSTRINHOS",
+#EXTINF:0 tvg-logo="http://i.imgur.com/a/EGih9.jpg" group-title="DOCUMENTÁRIOS COMPLETOS",STEPHEN HAWKING E AS CELULAS TRONCO
+http://archive.org/download/Stephen.Hawking.e.as.Celulas-Tronco/C%c3%a9lulas-tronco%20com%20Stephen%20Hawking-PSG.mp4.mp4
 
 
-#EXTINF:0 tvg-logo="" group-title="OS SETE MONSTRINHOS",
+#EXTINF:0 tvg-logo="http://i.imgur.com/AlszA7q.jpg" group-title="DOCUMENTÁRIOS COMPLETOS",A GUERRA DO VIATNÃ PART.1
+http://ia601509.us.archive.org/15/items/AGuerraDoVietnaParte1/A%20Guerra%20do%20Vietn%C3%A3-%20Parte%201.mp4
 
 
-#EXTINF:0 tvg-logo="" group-title="OS SETE MONSTRINHOS",
+#EXTINF:0 tvg-logo="http://i.imgur.com/Wc5yYCw.jpg" group-title="DOCUMENTÁRIOS COMPLETOS",A GUERRA DO VIATNÃ PART.2
+http://ia601509.us.archive.org/15/items/AGuerraDoVietnaParte1/Vietn%C3%A3%20Os%20Arquivos%20Perdidos%20Ep.2.mp4
 
 
-#EXTINF:0 tvg-logo="" group-title="OS SETE MONSTRINHOS",
+#EXTINF:0 tvg-logo="https://goo.gl/6VjnNn" group-title="DOCUMENTÁRIOS COMPLETOS",DENTRO DO SOL
+http://ia601500.us.archive.org/28/items/DentroDoSolDocumentrioDublado/Dentro%20do%20Sol%20Document%C3%A1rio%20Dublado%21.mp4
 
 
-#EXTINF:0 tvg-logo="" group-title="OS SETE MONSTRINHOS",
+#EXTINF:0 tvg-logo="https://goo.gl/ji1xYQ" group-title="DOCUMENTÁRIOS COMPLETOS",CONHEÇA O ESTADO ISLÂMICO
+http://ia601501.us.archive.org/27/items/ConhecaOEstadoIslamicoGloboNews/Conhe%C3%A7a%20o%20Estado%20Isl%C3%A2mico%20-%20Globo%20News.mp4
 
 
-#EXTINF:0 tvg-logo="" group-title="OS SETE MONSTRINHOS",
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+
+############################OS JOVENS TITÃS#################################
+
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",01 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=cbd357a7c9742b7
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",02 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=2b1bb0bffe19050c
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",03 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=8c5864a271d9acc6
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",04 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=e8d50483b7c70133
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",05 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=bf2efe8c21b0cd43
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",06 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=eff06f91b1cf9e7c
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",07 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=d0dea6802cccc7e4
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",08 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=4f66aa17dbc5ace9
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",09 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=7ce4256778ab1241
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",10 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=d99a0f17ff2bb557
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",11 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=f571a5cc74c47fbd
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",12 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=36484e0f67849a85
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",13 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=45d67969d4e2520d
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",14 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=1eff67d1021e6caa
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",15 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=bd59b48adff8db58
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",16 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=3db670d0ee79befe
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",17 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=84169933fe2e20bc
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",18 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=abc5a28cde20822b
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",19 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=a8b0bb9ac2919b54
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",20 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=fa1e846070d09b34
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",21 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=24acc5845cc9ba98
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",22 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=2fd6d0bf95ac6b2a
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",23 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=7de4802064fb0b9e
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",24 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=862ceb76da7192fe
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",25 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=a546c0319126bcc8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",26 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=f19b7ae012abe4bc
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",27 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=bd34c47e22b41a79
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",28 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=1c3262c78549469e
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",29 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=8e63cad664ab3bad
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",30 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=9b482225b37322d6
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",31 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=cd0b35f3c96a6838
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",32 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=3a17a4e8bc235f93
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",33 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=86a6dbcee364da1b
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",34 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=e3bb08b2b474cf09
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",35 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=5dbfa232dc693ab8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",36 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=8e5e10947542df5f
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",37 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=2e69edfd1ebe68ff
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",38 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=ab8bba2b383ebb88
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",39 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=8036c979d45ad5d6
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",40 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=bcd77e537b5c8597
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",41 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=455cf11603bc6272
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",42 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=d6a17e7f0bb54aee
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",43 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=f9ce282b6ddc221f
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",44 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=923f705795de700b
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",45 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=b0ba6454188804da
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",46 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=72c9fa179fc305e9
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",47 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=7a47fe010a9daaba
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",48 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=a7e55230f6ba535a
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",49 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=a723b064749a406
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",50 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=55ee7109737fb54f
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",51 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=e1e05792b66fff69
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",52 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=41d235e48c464e33
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",53 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=1926e7e807315ab2
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",54 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=1ce952a05f749413
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",55 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=21609f8a705961b5
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",56 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=c353ea2b78acdc13
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",57 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=58cd8c0b2a717172
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",58 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=a9a76d4cbdd1a2b9
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",59 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=a1d2560f2ebb14d8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",60 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=7f5009c16daa1e4e
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",61 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=21cc0724d8808511
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",62 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=623615efdd9def24
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",63 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=1aa3370f74d691bc
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",64 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=a5cc79461f070b9
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",65 Os Jovens Titans
+http://www.blogger.com/video-play.mp4?contentId=9dfefa16fc9cf068
 
 
 
@@ -2583,230 +2890,6 @@ http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP49.mp4
 
 #EXTINF:0 tvg-logo="https://goo.gl/gWQupZ" group-title="CHAOTIC",Episódio 50 - Gigantemtopolis 
 http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/CHTCEP50.mp4
-
-
-
-
-
-############################O MASKARA#################################
-
-
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T01|EP01
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP01.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T01|EP02
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP02.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T01|EP03
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP03.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T01|EP04
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP04.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T01|EP05
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP05.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T01|EP06
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP06.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T01|EP07
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP07.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T01|EP08
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP08.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T01|EP09
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP09.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T01|EP10
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP10.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T01|EP11
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP11.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T01|EP12
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP12.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T01|EP13
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP13.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T01|EP14
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP14.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T01|EP15
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP15.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP01
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP16.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP02
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP17.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP03
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP18.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP04
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP19.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP05
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP20.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP06
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP21.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP07
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP22.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP08
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP23.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP09
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP24.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP10
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP25.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP11
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP26.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP12
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP27.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP13
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP28.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP14
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP29.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP15
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP30.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP16
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP31.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP17
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP32.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP18
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP33.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP19
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP34.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP20
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP35.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP21
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP36.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP22
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP37.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP23
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP38.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP24
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP39.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP25
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP40.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP26
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP41.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP27
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP42.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP28
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP43.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP29
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP44.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T02|EP30
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP45.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T03|EP01
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP46.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T03|EP02
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP47.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T03|EP03
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP48.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T03|EP04
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP49.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T03|EP05
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP50.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T03|EP06
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP51.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T03|EP07
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP52.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T03|EP08
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP53.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZtaKsjj.png" group-title="O MASKARA",O MASKARA T03|EP09
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/OMSKREP54.mp4
 
 
 
@@ -17144,6 +17227,68 @@ http://staniptv.com/56rk
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/UhjjMa6.png" group-title="ROCK IN RIO 2017" ,PET SHOP BOYS
 http://staniptv.com/6waf
+
+
+
+
+
+############################PUNHO DE FERRO#################################
+
+
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/cW3kSK" group-title="PUNHO DE FERRO", PDF T1|EP1 - Punho de Ferro
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/PNHDFRT01EP01.mp4
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/cW3kSK" group-title="PUNHO DE FERRO", PDF T1|EP2 - Punho de Ferro
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/PNHDFRT01EP02.mp4
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/cW3kSK" group-title="PUNHO DE FERRO", PDF T1|EP3 - Punho de Ferro
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/PNHDFRT01EP03.mp4
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/cW3kSK" group-title="PUNHO DE FERRO", PDF T1|EP4 - Punho de Ferro
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/PNHDFRT01EP04.mp4
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/cW3kSK" group-title="PUNHO DE FERRO", PDF T1|EP5 - Punho de Ferro
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/PNHDFRT01EP05.mp4
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/cW3kSK" group-title="PUNHO DE FERRO", PDF T1|EP6 - Punho de Ferro
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/PNHDFRT01EP06.mp4
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/cW3kSK" group-title="PUNHO DE FERRO", PDF T1|EP7 - Punho de Ferro
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/PNHDFRT01EP07.mp4
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/cW3kSK" group-title="PUNHO DE FERRO", PDF T1|EP8 - Punho de Ferro
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/PNHDFRT01EP08.mp4
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/cW3kSK" group-title="PUNHO DE FERRO", PDF T1|EP9 - Punho de Ferro
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/PNHDFRT01EP09.mp4
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/cW3kSK" group-title="PUNHO DE FERRO", PDF T1|EP10 - Punho de Ferro
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/PNHDFRT01EP10.mp4
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/cW3kSK" group-title="PUNHO DE FERRO", PDF T1|EP11 - Punho de Ferro
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/PNHDFRT01EP11.mp4
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/cW3kSK" group-title="PUNHO DE FERRO", PDF T1|EP12 - Punho de Ferro
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/PNHDFRT01EP12.mp4
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/cW3kSK" group-title="PUNHO DE FERRO", PDF T1|EP13 - Punho de Ferro
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/PNHDFRT01EP13.mp4
+
+
 
 
 ############################Z-NATION#################################
