@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="" group-title="",LISTA ATUALIZADA 16:30 27/10/2017
+#EXTINF:0 tvg-logo="" group-title="",LISTA ATUALIZADA 17:49 27/10/2017
 http://0.0.0.0
 
 
@@ -1106,11 +1106,51 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MSAOIMPSVEL03.mp4
 
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/rkxC4UX.jpg" group-title="LANÇAMENTOS",MISSAO IMPOSSIVEL: PROTOCOLO FANTASMA
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MSAOIMPSVEL04.mp4?STANIPTV
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MSAOIMPSVEL04.mp4
 
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/yD9VLJV.jpg" group-title="LANÇAMENTOS",MISSAO IMPOSSIVEL: NAÇÃO SECRETA
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MSAOIMPSVEL05.mp4?STANIPTV
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MSAOIMPSVEL05.mp4
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/gnza10H.jpg" group-title="LANÇAMENTOS",CARROS 3
+http://assistir.querofilmehd.com/filmes/Cars.3.2017.1080p.AMZN.WEB-DL.DD+5.1.H.264-SiGMA%20DUAL%20AUDIO.mp4
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/kejOrqW.jpg" group-title="LANÇAMENTOS",HOMEM ARANHA: DE VOLTA AO LAR
+http://zeus.netcine.tv/httpdelivery/filmes2017/ARANHAHOMEMDUB-ALTO.mp4?STANIPTV
+
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/sQmF1nLvXDzq3koIR2XFYJSz5gH.jpg" group-title="LANÇAMENTOS",O ESPETACULAR HOMEM ARANHA 1
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OESPTCLHMNARNH01.mp4
+
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/6a96OGthCFu3smdGShkgl7Laxvm.jpg" group-title="LANÇAMENTOS",O ESPETACULAR HOMEM ARANHA 2
+http://assistir.querofilmehd.com/filmes/O.Espetacular.Homem.Aranha.2.A.Ameaca.de.Electro.2014.1080p.BluRay.x264.BLOW.DUAL-LAPUMiA.mp4
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/VxVtuY7.png" group-title="LANÇAMENTOS",KING: UMA HISTORIA DE VINGANÇA
+http://assistir.querofilmehd.com/filmes/King-Uma.Historia.de.Vinganca.2016.2A.720p.BluRay.x264-LOST-ABS.mp4?STANIPTV
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/XXyBueE.png" group-title="LANÇAMENTOS",UMA HISTORIA DE VINGANÇA
+http://assistir.querofilmehd.com/dbz-super/Uma.Hist%C3%B3ria.de.Vingan%C3%A7a.2017.720p.BluRay.x264-ROVERS-DUAL-GuiVGA.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/eLB9rP" group-title="LANÇAMENTOS",PRIMEIRO MATARAM MEU PAI
+http://assistir.querofilmehd.com/filmes/First.They.Killed.My.Father.2017.1080p.NF.WEB-DL.DD5.1.x264-NTG%20DUAL-IRONSIDE(1).mp4
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/aVk5zgc.png" group-title="LANÇAMENTOS",NINGUEM ENTRA NINGUEM SAI
+http://zeus.netcine.tv/httpdelivery/filmes2017/NINGUEMENTRASAI2017-ALTO.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/bqIoeG9h.jpg" group-title="LANÇAMENTOS",MULHER MARAVILHA
+http://zeus.netcine.tv/httpdelivery/filmes2017/W0M4N2017DUB-ALTO.mp4
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/1EBN9Mh.jpg" group-title="LANÇAMENTOS",VELOZES E FURIOSOS 8
+http://zeus.netcine.tv/httpdelivery/filmes2017/VELOZES2017DUB-ALTO.mp4?STANIPTV
 
 
 #EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
@@ -1133,8 +1173,6 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MSAOIMPSVEL05.mp4?S
 
 #EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
 
-
-#EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
 
 
 #EXTINF:0 tvg-logo="" group-title="",
@@ -1199,10 +1237,6 @@ http://ia601509.us.archive.org/15/items/AGuerraDoVietnaParte1/Vietn%C3%A3%20Os%2
 
 #EXTINF:0 tvg-logo="https://goo.gl/6VjnNn" group-title="DOCUMENTÁRIOS COMPLETOS",DENTRO DO SOL
 http://ia601500.us.archive.org/28/items/DentroDoSolDocumentrioDublado/Dentro%20do%20Sol%20Document%C3%A1rio%20Dublado%21.mp4
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/ji1xYQ" group-title="DOCUMENTÁRIOS COMPLETOS",CONHEÇA O ESTADO ISLÂMICO
-http://ia601501.us.archive.org/27/items/ConhecaOEstadoIslamicoGloboNews/Conhe%C3%A7a%20o%20Estado%20Isl%C3%A2mico%20-%20Globo%20News.mp4
 
 
 #EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
