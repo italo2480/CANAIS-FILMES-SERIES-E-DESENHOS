@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="" group-title="",LISTA ATUALIZADA 09:20 27/10/2017
+#EXTINF:0 tvg-logo="" group-title="",LISTA ATUALIZADA 09:30 27/10/2017
 http://0.0.0.0
 
 
@@ -545,7 +545,8 @@ http://zeus.netcine.tv/httpdelivery/filmes2017/VELOZES2017DUB-ALTO.mp4?STANIPTV
 http://assistir.querofilmehd.com/filmes/a-morte-lhe-da-parabens.mp4
 
 
-#EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
+#EXTINF:0 tvg-logo="https://i.imgur.com/q2Xp299.png" group-title="LANÇAMENTOS",O SEQUESTRO
+http://assistir.querofilmehd.com/filmes/O.Sequestro.2017.1080p.BluRay.x264-VETO.mp4?STANIPTV
 
 
 #EXTINF:0 tvg-logo="" group-title="LANÇAMENTOS",
