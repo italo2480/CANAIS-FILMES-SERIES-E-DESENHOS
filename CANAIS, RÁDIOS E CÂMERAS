@@ -1,0 +1,849 @@
+#EXTM3U
+
+#EXTINF:0 tvg-logo="" group-title="",LISTA ATUALIZADA 00:00 27/10/2017
+http://0.0.0.0
+
+
+#EXTINF:0 tvg-logo="https://lut.im/xO3mLBpjYa/0OQb76WIZhMyay0R.jpeg" group-title="REALITY",A FAZENDA 24HRS 480P
+https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/index_480_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:0 tvg-logo="https://lut.im/xO3mLBpjYa/0OQb76WIZhMyay0R.jpeg" group-title="REALITY",A FAZENDA 24HRS 720p
+https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/index_720_av-p.m3u8?sd=10&rebase=on
+
+                                                                                                                                          
+#EXTINF:0 tvg-logo="https://goo.gl/V1ELgY" group-title="DOCUMENTARIOS",ANIMAL PLANET 
+http://195.181.162.206/live/Brasil/TEST/8331.ts?token=SBUKWRZfRAISAFIACQMHX1AHAFdQW1YIB1oAUQQBAV0CAlJaVwcDCgYUHBdKQ0JcVAg6WgUaXwFXUVAbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxWVABSUQYVEUcLXEcNCE1cWhwXXE9EXEcLBF8+XABPDQEEFVwNRFVfG0BXC2gCXV1XXlEbDRIIF0lHWhJIRwNGIQ1YEwd3VVJFBxgsWQUWEhoSV1BDQlhBAEcJD00JVUhAAlgTDUVLShVYGiRlRBQSU0hBXFlDUFoLRwlDTBYbSEAIRDkRVEpHRQdZCFIUGgoUABcVFV1YTToGXA9WAFoQCw5ZFUELGwAHUghHG0RVX1hZQVZFb0lcAUcJD00JVRk=
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/FZJkzC" group-title="DESENHOS",ANIME TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/rjQu2h" group-title="TV ABERTA",APARECIDA
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/rjQu2h" group-title="TV ABERTA",APARECIDA ALTAR CENTRAL
+http://caikrondatacenter.com.br:1935/santuario_aparecida/canal5.stream/playlist.m3u8?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/rjQu2h" group-title="TV ABERTA",CAPELA DO SANTISSIMO
+http://caikrondatacenter.com.br:1935/santuario_aparecida/canal3.stream/live.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/rjQu2h" group-title="TV ABERTA",CAPELA SAO JOSE
+http://caikrondatacenter.com.br:1935/santuario_aparecida/canal4.stream/live.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/rjQu2h" group-title="TV ABERTA",NICHO
+http://caikrondatacenter.com.br:1935/santuario_aparecida/canal2.stream/live.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/rjQu2h" group-title="TV ABERTA",VISAO EXTERNA
+http://69.46.0.170:1935/santuario_aparecida/canal6.stream/live.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Z8b7Kv" group-title="FILMES",AXN
+http://n-3-23.dcs.redcdn.pl/hls/o2/redefine/nlive/axn_white_1/3244/0/tv-ss/live.isml/playlist.m3u8?stream=0&bandwidth=1
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/bCgyVo" group-title="TV ABERTA",BAND
+http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/bCgyVo" group-title="TV ABERTA",BAND ALTERNATIVO
+
+
+#EXTINF:0 tvg-logo="http://s26.postimg.org/xa4xhwpyh/images.png" group-title="DESENHOS",BOOMERANG
+http://195.181.162.206/live/Brasil/TEST/8389.ts?token=SBUKWRZfRAISVFUHWgMJXwdQAVcEXVUNAFRSAQVaUw5QDwQMVVRSAFUUHBdKQ0JcVAg6WgUaXwFXWlgbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxWVgdeUAkVEUcLXEcNRAsBBggGGxsSXE0RAEEPWQlmAAcXXgUGEwNdQg5USRUJVm9SVVhYWVQbD0dUEU0aDEoUQFsVJQ9eTFdxDlkXUkZxXlUeFxUVUlBBFwRHBBpfG11SUBVKQVJWRlkWShwVXBpxZBIZG1JITVALFloOVkcDRhYSFUpBWEpsRQdLEUUDWV1TQhcDFQAbGUcIUhlnBlYKDARUEgpeV0AVWBpWB1YIEhoSWFZZWU1aFzpDCFxHA0ZRUAdRUBNE
+
+
+
+#EXTINF:0 tvg-logo="" group-title="INTERNACIONAL",BLOOMBERG
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/dnhL3tK.png" group-title="TV ABERTA",CANAL DO BOI
+http://189.86.89.116/hls-live/livecb/_definst_/liveevent/livestream.m3u8
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/dnhL3tK.png" group-title="TV ABERTA",CANAL DO BOI ALTERNATIVO
+http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Fy745S" group-title="TV ABERTA",CANÇÃO NOVA
+http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Fy745S" group-title="TV ABERTA",CANÇÃO NOVA HD
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="DESENHOS",CARTOON NETWORK HD
+
+
+#EXTINF:0 tvg-logo="" group-title="DESENHOS",CARTOON NETWORK
+http://95.141.35.104:8081/look/cartoon8/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/HjiwAC" group-title="TV ABERTA",CULTURA
+http://177.73.84.49/hls/live/live.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/HjiwAC" group-title="TV ABERTA",CULTURA ALTERNATIVO
+http://200.189.113.201:80/hls/tve.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Vpd4BV" group-title="DESENHOS",DISNEY XD ALTERNATIVO
+
+
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Vpd4BV" group-title="DESENHOS",DISNEY XD
+http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Vpd4BV" group-title="DESENHOS",DISNEY XD HD
+http://195.181.162.206/live/Brasil/TEST/8390.ts?token=SBUKWRZfRAISAgRUXAQGXAYHXAYFCVVcVFoDAgVTUgkFU1ZdU1UHAVEUHBdKQ0JcVAg6WgUaXwFXWlQbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxWVgZRVwkVEUcLXEcNCE1cWhwXXE9EXEcLBF8+XABPDQEEFVwNRFVfG0BXC2gCXV1XXlEbDRIIF0lHWhJIRwNGIQ1YEwd3VVJFBxgsWQUWEhoSV1BDQlhBAEcJD00JVUhAAlgTDUVLShVYGiRlRBQSU0hBXFlDUFoLRwlDTBYbSEAIRDkRVEpHRQdZCFIUGgoUABcVFV1YTToGXA9WAFoQCw5ZFUELGwAHUghHG0RVX1hZQVZFb0lcAUcJD00JVRk=
+
+
+#EXTINF:0 tvg-logo="" group-title="DESENHOS",DESENHOS 24HRS
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8?MWINFO
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/rbGTmd" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
+http://195.181.162.206/live/Brasil/TEST/8341.ts?token=SBUKWRZfRAISBlUGDA9UAVRWBFFTCFUOXAFXUQUBUlpVUQEOUlYADAMUHBdKQ0JcVAg6WgUaXwFXVlAbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxWVAFXUQAVEUcLXEcNRAoIDgAMGxsSXE0RAEEPWQlmAAcXXgUGEwNdQg5USRUJVm9SVVhYWVQbD0dUEU0aDEoUQFsVJQ9eTFdxDlkXUkZxXlUeFxUVUlBBFwRHBBpfG1VTUA5ETxNaXEIMTBdORAISd2IXFRVVQUEAC0AIVwsbXkAVRERPE1BAaBBdFkMUXVFbVUcbDRIJF0lHXgBAOloLDA9SBRdYVl1EQAJHBFYIABQcF1RYXlBBChdsEVEBG15AUw9eUwQbTg==
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/mK171g" group-title="DESENHOS",DISCOVERY KIDS
+http://195.181.162.206/live/Brasil/TEST/8393.ts?token=SBUKWRZfRAISBVINXFVUDFBVVwBZAAAPUlZWUQQHAwADUVpdUVMDDQUUHBdKQ0JcVAg6WgUaXwFXW1IbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxWVgVXWggVEUcLXEcNRAkHDgYCGxsSXE0RAEEPWQlmAAcXXgUGEwNdQg5USRUJVm9SVVhYWVQbD0dUEU0aDEoUQFsVJQ9eTFdxDlkXUkZxXlUeFxUVUlBBFwRHBBpfG1VaVgJETxNaXEIMTBdORAISd2IXFRVVQUEAC0AIVwsbXkAVRERPE1BAaBBdFkMUXVFbVUcbDRIJF0lHXgBAOloLDA9SBRdYVl1EQAJHBFYIABQcF1RYXlBBChdsEVEBG15AUABeVQIbTg==
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/mK171g" group-title="DESENHOS",DISCOVERY KIDS HD
+http://195.181.162.206/live/Brasil/TEST/8393.ts?token=SBUKWRZfRAISUAYDXwZWDwRWV1ECDQZdVltYU1RbAFgAUQQLXVJUWwUUHBdKQ0JcVAg6WgUaXwFXW1UbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxWVwFQVwcVEUcLXEcNRAoIAgIFGxsSXE0RAEEPWQlmAAcXXgUGEwNdQg5USRUJVm9SVVhYWVQbD0dUEU0aDEoUQFsVJQ9eTFdxDlkXUkZxXlUeFxUVUlBBFwRHBBpfG1VTUQ9ETxNaXEIMTBdORAISd2IXFRVVQUEAC0AIVwsbXkAVRERPE1BAaBBdFkMUXVFbVUcbDRIJF0lHXgBAOloLDA9SBRdYVl1EQAJHBFYIABQcF1RYXlBBChdsEVEBG15AUw9SUgcbTg==
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/RL9GsB" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE
+
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/iKu1zx" group-title="DESENHOS",DISNEY JUNIOR
+http://195.181.162.206/live/Brasil/TEST/8391.ts?token=SBUKWRZfRAISDlYGXw8ADAVVAQRVCFVYVFsAB15TBloBDwYBUgMDWgUUHBdKQ0JcVAg6WgUaXwFXW1AbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxWVw9eUQAVEUcLXEcNCE1cWhwXXE9EXEcLBF8+XABPDQEEFVwNRFVfG0BXC2gCXV1XXlEbDRIIF0lHWhJIRwNGIQ1YEwd3VVJFBxgsWQUWEhoSV1BDQlhBAEcJD00JVUhAAlgTDUVLShVYGiRlRBQSU0hBXFlDUFoLRwlDTBYbSEAIRDkRVEpHRQdZCFIUGgoUABcVFV1YTToGXA9WAFoQCw5ZFUELGwAHUghHG0RVX1hZQVZFb0lcAUcJD00JVRk=
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES",FILMES 24HRS
+http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/RNtmXsk.png" group-title="FILMES",FILMES GOSPELS
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Js7cJX" group-title="FILMES",FOX
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/3FzQfQ" group-title="TV ABERTA",GLOBO ALTERNATIVO
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/3FzQfQ" group-title="TV ABERTA",GLOBO NORDESTE
+http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/live.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/3FzQfQ" group-title="TV ABERTA",GLOBO RJ
+http://95.141.32.213:8081/look/globol/playlist.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/3FzQfQ" group-title="TV ABERTA",GLOBO SP
+http://158.58.172.5:8081/look/sptvl/playlist.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Jn2aAQ" group-title="NOTICIAS",GLOBO NEWS
+http://158.58.172.5:8081/look/globonew/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Jn2aAQ" group-title="NOTICIAS",GLOBO NEWS HD
+http://195.181.162.206/live/Brasil/TEST/8396.ts?token=SBUKWRZfRAISAgRUXAQGXAYHXAYFCVVcVFoDAgVTUgkFU1ZdU1UHAVEUHBdKQ0JcVAg6WgUaXwFXWlQbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxWVgZRVwkVEUcLXEcNCE1cWhwXXE9EXEcLBF8+XABPDQEEFVwNRFVfG0BXC2gCXV1XXlEbDRIIF0lHWhJIRwNGIQ1YEwd3VVJFBxgsWQUWEhoSV1BDQlhBAEcJD00JVUhAAlgTDUVLShVYGiRlRBQSU0hBXFlDUFoLRwlDTBYbSEAIRDkRVEpHRQdZCFIUGgoUABcVFV1YTToGXA9WAFoQCw5ZFUELGwAHUghHG0RVX1hZQVZFb0lcAUcJD00JVRk=
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/m7LHMf" group-title="DESENHOS",GLOOB ALTERNATIVO
+
+
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/m7LHMf" group-title="DESENHOS",GLOOB HD
+http://195.181.162.206/live/Brasil/TEST/8385.ts?token=SBUKWRZfRAISAgRUXAQGXAYHXAYFCVVcVFoDAgVTUgkFU1ZdU1UHAVEUHBdKQ0JcVAg6WgUaXwFXWlQbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxWVgZRVwkVEUcLXEcNCE1cWhwXXE9EXEcLBF8+XABPDQEEFVwNRFVfG0BXC2gCXV1XXlEbDRIIF0lHWhJIRwNGIQ1YEwd3VVJFBxgsWQUWEhoSV1BDQlhBAEcJD00JVUhAAlgTDUVLShVYGiRlRBQSU0hBXFlDUFoLRwlDTBYbSEAIRDkRVEpHRQdZCFIUGgoUABcVFV1YTToGXA9WAFoQCw5ZFUELGwAHUghHG0RVX1hZQVZFb0lcAUcJD00JVRk=
+
+
+#EXTINF:0 tvg-logo="http://s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title="FILMES",HBO 2 
+http://195.181.162.206/live/Brasil/TEST/8264.ts?token=SBUKWRZfRAISUFMDDFUDCFdSAVZYWwMOB1RYDlVRUlxWDlIOVgJWCgEUHBdKQ0JcVAg6WgUaXwFWVFUbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxXWA9VVQcVEUcLXEcNRAoAAwUEGxsSXE0RAEEPWQlmAAcXXgUGEwNdQg5USRUJVm9SVVhYWVQbD0dUEU0aDEoUQFsVJQ9eTFdxDlkXUkZxXlUeFxUVUlBBFwRHBBpfG1VTVwFETxNaXEIMTBdORAISd2IXFRVVQUEAC0AIVwsbXkAVRERPE1BAaBBdFkMUXVFbVUcbDRIJF0lHXgBAOloLDA9SBRdYVl1EQAJHBFYIABQcF1RYXlBBChdsEVEBG15AUwdTUAAbTg==
+
+
+#EXTINF:0 tvg-logo="http://s31.postimg.org/lw2etrpff/HBO_Family.png" group-title="FILMES",HBO FAMILY
+http://195.181.162.206/live/Brasil/TEST/8262.ts?token=SBUKWRZfRAISBAUDCQQCCQBcU1BSDVYJV1NZAV9QVF9WD1MKVgYFXQYUHBdKQ0JcVAg6WgUaXwFWVFMbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxXWA9TVQIVEUcLXEcNCE1cWhwXXE9EXEcLBF8+XABPDQEEFVwNRFVfG0BXC2gCXV1XXlEbDRIIF0lHWhJIRwNGIQ1YEwd3VVJFBxgsWQUWEhoSV1BDQlhBAEcJD00JVUhAAlgTDUVLShVYGiRlRBQSU0hBXFlDUFoLRwlDTBYbSEAIRDkRVEpHRQdZCFIUGgoUABcVFV1YTToGXA9WAFoQCw5ZFUELGwAHUghHG0RVX1hZQVZFb0lcAUcJQwlQD1JVQ0o=
+
+
+
+#EXTINF:0 tvg-logo="http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title="FILMES",HBO
+http://195.181.162.206/live/Brasil/TEST/8266.ts?token=SBUKWRZfRAISBlYBWwBTAVdSVFECW1ELAFsEAFFVBA4CA1YIV1QFXAMUHBdKQ0JcVAg6WgUaXwFWVFcbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxXWA5TWgkVEUcLXEcNRAoFAgEFGxsSXE0RAEEPWQlmAAcXXgUGEwNdQg5USRUJVm9SVVhYWVQbD0dUEU0aDEoUQFsVJQ9eTFdxDlkXUkZxXlUeFxUVUlBBFwRHBBpfVxEODRtEAF5MXUMQQUcNRHliFBwXXE9EXFsWDFwPGl8bEBFDG0QKQmZBUhFMF1IHVVVEEg8bBxIVFwgESz5bClcKBwJDDwxfShENQAtVB1YaHBRdWldeRFZHOhVaBRpfG1ZXVQdXQUw=
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/UzhVDn" group-title="DOCUMENTARIOS",H2
+http://195.181.162.206/live/Brasil/TEST/8349.ts?token=SBUKWRZfRAISDlYFAQRWDlYAVQtRDFcJBVVYBwVUCA0CB1AMAwJeDAcUHBdKQ0JcVAg6WgUaXwFXVlgbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxWVAJeVwYVEUcLXEcNCE1cWhwXXE9EXEcLBF8+XABPDQEEFVwNRFVfG0BXC2gCXV1XXlEbDRIIF0lHWhJIRwNGIQ1YEwd3VVJFBxgsWQUWEhoSV1BDQlhBAEcJD00JVUhAAlgTDUVLShVYGiRlRBQSU0hBXFlDUFoLRwlDTBYbSEAIRDkRVEpHRQdZCFIUGgoUABcVFV1YTToGXA9WAFoQCw5ZFUELGwAHUghHG0RVX1hZQVZFb0lcAUcJD00JVRk=
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/d7YnX5" group-title="DOCUMENTARIOS",HISTORY
+http://195.181.162.206/live/Brasil/TEST/8351.ts?token=SBUKWRZfRAISUFRTCQAACgRQAQBRDFQOAFICAlQHA1pRVVtaA1ZUCAMUHBdKQ0JcVAg6WgUaXwFXV1AbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxWVAJQVgYVEUcLXEcNRAoEAwkEGxsSXE0RAEEPWQlmAAcXXgUGEwNdQg5USRUJVm9SVVhYWVQbD0dUEU0aDEoUQFsVJQ9eTFdxDlkXUkZxXlUeFxUVUlBBFwRHBBpfG1VWVQNETxNaXEIMTBdORAISd2IXFRVVQUEAC0AIVwsbXkAVRERPE1BAaBBdFkMUXVFbVUcbDRIJF0lHXgBAOloLDA9SBRdYVl1EQAJHBFYIABQcF1RYXlBBChdsEVEBG15AUwNTWwYbTg==
+
+
+#EXTINF:0 tvg-logo="http://s26.postimg.org/ctwybgr09/maxresdefault_1.jpg" group-title="FILMES",MAX PRIME
+http://195.181.162.206/live/Brasil/TEST/8254.ts?token=SBUKWRZfRAISBAhTXwECCwFTUwdWAVJfVlIFDwVbB18KDgAOXAACCFYUHBdKQ0JcVAg6WgUaXwFXUFYbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxXUgdSVAAVEUcLXEcNRAEEBwMXFRVVQUEAF10AVDpdARQIVANBC1dGWw4UR1gIZ1RTXVRXUxIDF1RHH0NRFklGWEN0CgxEXXVbA0oAFy9WUxgSGRtVWU1HBBFWQwJHCFdUVxVKQVJWRlkWShwVXBpxZBIZG1JITVALFloOVkcDRhYSFUpBWEpsRQdLEUUDWV1TQhcDFQAbGUcIUhlnBlYKDARUEgpeV0AVWBpWB1YIEhoSWFZZWU1aFzpDCFxHA0ZbVQdWQUw=
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/C63W6E" group-title="FILMES",MEGAPIX HD
+http://195.181.162.206/live/Brasil/TEST/8282.ts?token=SBUKWRZfRAISBAhTXwECCwFTUwdWAVJfVlIFDwVbB18KDgAOXAACCFYUHBdKQ0JcVAg6WgUaXwFXUFYbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxXUgdSVAAVEUcLXEcNRAEEBwMXFRVVQUEAF10AVDpdARQIVANBC1dGWw4UR1gIZ1RTXVRXUxIDF1RHH0NRFklGWEN0CgxEXXVbA0oAFy9WUxgSGRtVWU1HBBFWQwJHCFdUVxVKQVJWRlkWShwVXBpxZBIZG1JITVALFloOVkcDRhYSFUpBWEpsRQdLEUUDWV1TQhcDFQAbGUcIUhlnBlYKDARUEgpeV0AVWBpWB1YIEhoSWFZZWU1aFzpDCFxHA0ZbVQdWQUw=
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/C63W6E" group-title="FILMES",MEGAPIX
+http://195.181.162.206/live/Brasil/TEST/8281.ts?token=SBUKWRZfRAISV1MECQQAXw0HVlcFXV0AU1tRUl9XBF0FU1NeXVUEXgMUHBdKQ0JcVAg6WgUaXwFWWlAbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxUUQ5SUQAVEUcLXEcNRAoAAQMCGxsSXE0RAEEPWQlmAAcXXgUGEwNdQg5USRUJVm9SVVhYWVQbD0dUEU0aDEoUQFsVJQ9eTFdxDlkXUkZxXlUeFxUVUlBBFwRHBBpfG1VTVgdETxNaXEIMTBdORAISd2IXFRVVQUEAC0AIVwsbXkAVRERPE1BAaBBdFkMUXVFbVUcbDRIJF0lHXgBAOloLDA9SBRdYVl1EQAJHBFYIABQcF1RYXlBBChdsEVEBG15AUwdRUAIbTg==
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/uuynZ3" group-title="VARIEDADES",MULTISHOW
+http://95.141.32.213:8081/look/eimax/playlist.m3u8?
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/RNtmXsk.png" group-title="VARIEDADES",MUSICAS GOSPELS
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:0 tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2014/06/mix-tv-logo.png" group-title="VARIEDADES",MIX TV
+http://stmv1.euroti.com.br:1935/mixtv/mixtv/live.m3u8 
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/J7PHVT" group-title="VARIEDADES",NASA TV
+https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/J7PHVT" group-title="VARIEDADES",NASA TV HD
+http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/N5Kt6q" group-title="VARIEDADES",POLISHOP
+
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/PPsKmQ" group-title="TV ABERTA",RECORD SD
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/PPsKmQ" group-title="TV ABERTA",RECORD SP
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w1068721152.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/PPsKmQ" group-title="TV ABERTA",RECORD ALTERNATIVO
+http://158.58.172.5:8081/look/recordx/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/QrJifm" group-title="NOTICIAS",RECORD NEWS
+http://stmv4.srvstm.com:1935/recordnewses/recordnewses/playlist.m3u8?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/MKzPPq" group-title="TV ABERTA",REDE BRASIL
+http://173.236.10.10:1935/rbtv/rbtv/live.m3u8
+
+
+#EXTINF:0 tvg-logo="https://lut.im/nqxxaiqRsh/aPqzUMslWtnGjcyq.png" group-title="TV ABERTA",REDE FAMÍLIA HD
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/fu82rk" group-title="TV ABERTA",REDE TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/fu82rk" group-title="TV ABERTA",REDE TV RJ
+http://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/fu82rk" group-title="TV ABERTA",REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/mvZX97" group-title="TV ABERTA",REDE VIDA
+http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/NWvdjo" group-title="TV ABERTA",SBT
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/live.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/NWvdjo" group-title="TV ABERTA",SBT GO HD
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/NWvdjo" group-title="TV ABERTA",SBT HD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w1742879983.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/NWvdjo" group-title="TV ABERTA",SBT HD 2
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/chunklist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/NWvdjo" group-title="TV ABERTA",SBT ALTERNATIVO
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/NWvdjo" group-title="TV ABERTA",SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/JwGnkz" group-title="VARIEDADES",SHOPTIME
+http://cdnapi.kaltura.com:80/p/0/sp/0/playManifest/entryId/1_lld8saie/format/applehttp/live.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/JwGnkz" group-title="VARIEDADES",SHOPTIME ALTERNATIVO
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1828041/e/1_lld8saie/sd/10000/t/66vCvDIjPGEOL74WH8BlFA/index-s32.m3u8
+
+
+#EXTINF:0 tvg-logo="https://blogdoguinhocesar.files.wordpress.com/2015/09/canal-space.png" group-title="FILMES",SPACE
+http://195.181.162.206/live/Brasil/TEST/8293.ts?token=SBUKWRZfRAISBAhTXwECCwFTUwdWAVJfVlIFDwVbB18KDgAOXAACCFYUHBdKQ0JcVAg6WgUaXwFXUFYbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxXUgdSVAAVEUcLXEcNRAEEBwMXFRVVQUEAF10AVDpdARQIVANBC1dGWw4UR1gIZ1RTXVRXUxIDF1RHH0NRFklGWEN0CgxEXXVbA0oAFy9WUxgSGRtVWU1HBBFWQwJHCFdUVxVKQVJWRlkWShwVXBpxZBIZG1JITVALFloOVkcDRhYSFUpBWEpsRQdLEUUDWV1TQhcDFQAbGUcIUhlnBlYKDARUEgpeV0AVWBpWB1YIEhoSWFZZWU1aFzpDCFxHA0ZbVQdWQUw=
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/vrYoYT" group-title="FILMES",TC ACTION HD
+http://195.181.162.206/live/Brasil/TEST/8278.ts?token=SBUKWRZfRAISDwZUWgIAAVQGBAMCCQcBVQNUA18FBA9SU1tcUg4FAFUUHBdKQ0JcVAg6WgUaXwFWVVYbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxXVAZTVQQVEUcLXEcNRAEJAQYXFRVVQUEAF10AVDpdARQIVANBC1dGWw4UR1gIZ1RTXVRXUxIDF1RHH0NRFklGWEN0CgxEXXVbA0oAFy9WUxgSGRtVWU1HBBFWQwJHCFdaWBVKQVJWRlkWShwVXBpxZBIZG1JITVALFloOVkcDRhYSFUpBWEpsRQdLEUUDWV1TQhcDFQAbGUcIUhlnBlYKDARUEgpeV0AVWBpWB1YIEhoSWFZZWU1aFzpDCFxHA0ZbWABXQUw=
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/3AiuAz" group-title="FILMES",TC FUN HD
+http://195.181.162.206/live/Brasil/TEST/8276.ts?token=SBUKWRZfRAISUgFUDAIIClZQUwBQXl1bUAZYBVRbCFoHBAYKA1VXCQAUHBdKQ0JcVAg6WgUaXwFWVVQbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxXVANXUQMVEUcLXEcNCE1cWhwXXE9EXEcLBF8+XABPDQEEFVwNRFVfG0BXC2gCXV1XXlEbDRIIF0lHWhJIRwNGIQ1YEwd3VVJFBxgsWQUWEhoSV1BDQlhBAEcJD00JVUhAAlgTDUVLShVYGiRlRBQSU0hBXFlDUFoLRwlDTBYbSEAIRDkRVEpHRQdZCFIUGgoUABcVFV1YTToGXA9WAFoQCw5ZFUELGwAHUghHG0RVX1hZQVZFb0lcAUcJD00JVRk=
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/3AiuAz" group-title="FILMES",TC FUN ALTERNATIVO
+
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/2zmC3N" group-title="FILMES",TC PIPOCA HD
+http://195.181.162.206/live/Brasil/TEST/8274.ts?token=SBUKWRZfRAISAVFUCwJSXVdcUlcCXFIIUwNYVlEGU18CUwNaV1EEDFYUHBdKQ0JcVAg6WgUaXwFWVVIbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxXVANSUggVEUcLXEcNRAkIBQgGGxsSXE0RAEEPWQlmAAcXXgUGEwNdQg5USRUJVm9SVVhYWVQbD0dUEU0aDEoUQFsVJQ9eTFdxDlkXUkZxXlUeFxUVUlBBFwRHBBpfG11VVBVKQVJWRlkWShwVXBpxZBIZG1JITVALFloOVkcDRhYSFUpBWEpsRQdLEUUDWV1TQhcDFQAbGUcIUhlnBlYKDARUEgpeV0AVWBpWB1YIEhoSWFZZWU1aFzpDCFxHA0ZTWQRRWhNE
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/2zmC3N" group-title="FILMES",TC PIPOCA ALTERNATIVO
+
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/C1EeWo" group-title="FILMES",TC PREMIUM HD
+http://195.181.162.206/live/Brasil/TEST/8272.ts?token=SBUKWRZfRAISBgkDWg8CWwFWUFAHW1AOU1ZUB1QCBFpSVAcOBwYCDQEUHBdKQ0JcVAg6WgUaXwFWVVAbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxXVARVUQcVEUcLXEcNCE1cWhwXXE9EXEcLBF8+XABPDQEEFVwNRFVfG0BXC2gCXV1XXlEbDRIIF0lHWhJIRwNGIQ1YEwd3VVJFBxgsWQUWEhoSV1BDQlhBAEcJD00JVUhAAlgTDUVLShVYGiRlRBQSU0hBXFlDUFoLRwlDTBYbSEAIRDkRVEpHRQdZCFIUGgoUABcVFV1YTToGXA9WAFoQCw5ZFUELGwAHUghHG0RVX1hZQVZFb0lcAUcJD00JVRk=
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/C1EeWo" group-title="FILMES",TC PREMIUM ALTERNATIVO
+
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/EF3nwH" group-title="FILMES",TC TOUCH HD
+http://195.181.162.206/live/Brasil/TEST/8270.ts?token=SBUKWRZfRAISBwNWXFEIWgFUBAdRC1dbXVBYBFVQBQ4BAFYABgAHWlEUHBdKQ0JcVAg6WgUaXwFWVFgbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxXVARQWwkVEUcLXEcNRAoJDwQNGxsSXE0RAEEPWQlmAAcXXgUGEwNdQg5USRUJVm9SVVhYWVQbD0dUEU0aDEoUQFsVJQ9eTFdxDlkXUkZxXlUeFxUVUlBBFwRHBBpfG1xbVRVKQVJWRlkWShwVXBpxZBIZG1JITVALFloOVkcDRhYSFUpBWEpsRQdLEUUDWV1TQhcDFQAbGUcIUhlnBlYKDARUEgpeV0AVWBpWB1YIEhoSWFZZWU1aFzpDCFxHA0ZQWA5SUxNE
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/EF3nwH" group-title="FILMES",TC TOUCH ALTERNATIVO
+
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/dwkHps" group-title="FILMES",TC CULT HD
+http://195.181.162.206/live/Brasil/TEST/8269.ts?token=SBUKWRZfRAISBQMMWlZWClZQA1JRAAAKUVpTUQABCQ0KD1sOBlJfWVYUHBdKQ0JcVAg6WgUaXwFWVFkbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxXVANRVgkVEUcLXEcNRAoGAgIBGxsSXE0RAEEPWQlmAAcXXgUGEwNdQg5USRUJVm9SVVhYWVQbD0dUEU0aDEoUQFsVJQ9eTFdxDlkXUkZxXlUeFxUVUlBBFwRHBBpfG1VRUQFETxNaXEIMTBdORAISd2IXFRVVQUEAC0AIVwsbXkAVRERPE1BAaBBdFkMUXVFbVUcbDRIJF0lHXgBAOloLDA9SBRdYVl1EQAJHBFYIABQcF1RYXlBBChdsEVEBG15AUwFQVQEbTg==
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/dwkHps" group-title="FILMES",TC CULT ALTERNATIVO
+
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/nx3Qx3" group-title="TV ABERTA",TV ESCOLA
+http://liveabr2.sambatech.com.br/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/nx3Qx3" group-title="TV ABERTA",TV ESCOLA HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/66bdoy" group-title="TV ABERTA",TV EVANGELIZAR
+
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/DgcpF9" group-title="TV ABERTA",TV FUTURA
+
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/DgcpF9" group-title="TV ABERTA",TV FUTURA ALTERNATIVO
+http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/tG6C9S" group-title="TV ABERTA",TV GAZETA
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+
+
+#EXTINF:0 tvg-logo="https://s26.postimg.org/46gplo1ux/75675.jpg" group-title="DESENHOS",TV RA-TIM-BUM
+http://185.152.66.69/live/Brasil/TEST/8247.ts?token=SBUKWRZfRAISUAEDCAZSAAJcVARSCl1dAVtWBgJSUAwDUQZZAA4CWQMUHBdKQ0JcVAg6WgUaXwFWVlYbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxWVgdQUgYVEUcLXEcNCE1cWhwXXE9EXEcLBF8+XABPDQEEFVwNRFVfG0BXC2gCXV1XXlEbDRIIF0lHWhJIRwNGIQ1YEwd3VVJFBxgsWQUWEhoSV1BDQlhBAEcJD00JVUhAAlgTDUVLShVYGiRlRBQSU0hBXFlDUFoLRwlDTBYbSEAIRDkRVEpHRQdZCFIUGgoUABcVFV1YTToGXA9WAFoQCw5ZFUELGwAHUghHG0RVX1hZQVZFb0lcAUcJD00JVRk=
+
+
+
+#EXTINF:0 tvg-logo="https://lut.im/RRGSLkRCr8/KBpnydHkgy2os13K.png" group-title="FILMES",UNIVERSAL CHANNEL
+http://tv.ec.cx:1935/redecanais-stream-universal/myStream/playlist.m3u8   	
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Xw6ZzY" group-title="VARIEDADES",VIVA HD
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Xw6ZzY" group-title="VARIEDADES",VIVA
+http://195.181.162.205/live/Brasil/TEST/8248.ts?token=SBUKWRZfRAISUwYGDVNTDwJXVgpUXVMBBlBXVFFVBAsGVFsMXAAEXggUHBdKQ0JcVAg6WgUaXwFWVlkbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxUUAVWVwQVEUcLXEcNRAwFBwIXFRVVQUEAF10AVDpdARQIVANBC1dGWw4UR1gIZ1RTXVRXUxIDF1RHH0NRFklGWEN0CgxEXXVbA0oAFy9WUxgSGRtVWU1HBBFWQwJHCFNUVRVKQVJWRlkWShwVXBpxZBIZG1JITVALFloOVkcDRhYSFUpBWEpsRQdLEUUDWV1TQhcDFQAbGUcIUhlnBlYKDARUEgpeV0AVWBpWB1YIEhoSWFZZWU1aFzpDCFxHA0ZWVAdXQUw=
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Xw6ZzY" group-title="VARIEDADES",VIVA ALTERNATIVO
+
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/x33MwPN.png" group-title="DESENHOS",RETRÔ CARTOONS
+http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
+
+
+
+
+
+
+############################CÂMERAS#################################
+
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Rio de Janeiro - Copacabana
+http://video3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Av. Vinte e Três de Maio Trânsito
+https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_287.stream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Ubatuba - Praia Enseaba 
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_204.stream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Arena Allianz Parque - Palestra Itália
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_1093.stream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Av. Interlagos - Shopping Interlagos
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_801.stream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Marginal Pinheiros Trânsito
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_69.stream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",SANTO AMARO
+http://video-auth1.iol.pt:1935/beachcam/santoamaro/chunks.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",SÃO FRANCISCO- EUA
+http://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",GERMANY
+http://stream.livespotting.tv/windit-edge/vv101_720p.stream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",TEUFELSRAD- PARQUE DE DIVERSÃO
+http://stream.livespotting.tv/windit-edge/LS_3553a_720p.stream/chunklist_w1561253585.m3u8?sa=livespotting.tv
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",LOWENBRAU
+http://stream.livespotting.tv/windit-edge/LS_a74ba_720p.stream/chunklist_w1749211580.m3u8?sa=livespotting.tv
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",TIME SQUARE
+https://video3.earthcam.com/fecnetwork/9974.flv/chunklist_w1366511516.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Ilhabela Vista Sul
+https://d2pchsju5jshrk.cloudfront.net/aovivo/46908c90-52c6-11e7-a161-97a69642a621.stream/chunklist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Avenida Francisco Glicério, n° 641
+https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_132.stream/chunklist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Avenida Hildebrando de Lima, nº 717
+https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_458.stream/chunklist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Pizzaria Massa Fera - Av. Robert Koch, 506 Londrina-PR 
+https://d3qc4pzmpcvwft.cloudfront.net/aovivo/5006b3c0-bfd3-11e6-8fa1-3fab0a7d8591.stream/chunklist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Focco Brasil - R. Purus, 271 Londrina-PR
+https://d1xatkxshke25.cloudfront.net/aovivo/defb3ed0-a344-11e6-a273-f7cdd904f822.stream/chunklist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Mirante do Paranapanema - SP
+https://d1xwbsse9lcavw.cloudfront.net/aovivo/6b6e5fd0-9604-11e6-ba7e-fb62ba03fc29.stream/chunklist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Avenida Getúlio Vargas, nº 160
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Ninho das Águias
+https://d2pchsju5jshrk.cloudfront.net/aovivo/56b17550-1d27-11e7-86ad-b3286df8070e.stream/chunklist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Cordoba Entre Brasil y Uruguay Salto
+https://d158ijmq5mc2ll.cloudfront.net/7dias/9d266a90-8c12-11e7-b85e-2d800f1a7390.stream/chunklist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",ANIMAIS NA AFRICA
+http://stream.africam.com:1935/tm/tm.stream_360p/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",CAMERA AO VIVO DE COBRA
+https://stream-delta.dropcam.com/nexus_aac/68ebe635c92e46a8922b827199854d25/chunklist_w2061127975.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
+
+
+
+
+
+
+
+############################RÁDIOS#################################
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",ANOS 80
+http://192.99.150.31:8697/stream?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",SERTANEJO
+http://192.99.150.31:9191/stream?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",SERTANEJO 2
+http://192.99.150.31:9485/stream?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",ANOS 70
+http://192.99.150.31:8241/stream?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",BREGAS
+http://192.99.150.31:9007/stream?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",MÚSICAS INFANTIS
+http://192.99.150.31:9431/stream?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",DUSBSTEP
+http://192.99.150.31:9083/stream?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",ELETRO HOUSE
+http://192.99.150.31:9095/stream?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",FORRÓ
+http://192.99.150.31:9019/stream?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",JOVEM GUARDA
+http://192.99.150.31:8801/stream?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",LOVE SONGS
+http://192.99.150.31:8897/stream?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",NEW ROCK
+http://6d9a.webradio.upx.net.br:8028/stream
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",POP ROCK
+http://6d9a.webradio.upx.net.br:8016/stream
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",ANOS 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",SERTANEJO RAIZ
+http://192.99.150.31:9155/stream?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",BOSSA NOVA
+http://6d9a.webradio.upx.net.br:9974/stream
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",REGGAE
+http://192.99.150.31:8715/stream?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",ROBERTO CARLOS
+http://192.99.150.31:9137/stream?
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",ROCK CLÁSSICO
+http://192.99.150.31:9125/stream?
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+
+
+############################DOCUMENTÁRIOS COMPLETOS#################################
+
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/bq5Kj4I.png"" group-title="DOCUMENTÁRIOS COMPLETOS",A HISTORIA DA ELETRICIDADE
+http://archive.org/download/A.Historia.da.Eletricidade-Dublado.720p/A%20hist%c3%b3ria%20da%20Eletricidade%20-%20ep1%20Faisca%20-%20Dublado%20720p.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/bq5Kj4I.png"" group-title="DOCUMENTÁRIOS COMPLETOS",A HISTORIA DA ELETRICIDADE
+http://archive.org/download/A.Historia.da.Eletricidade-Dublado.720p/A%20hist%c3%b3ria%20da%20Eletricidade%20-%20ep2%20A%20Era%20da%20Inven%c3%a7%c3%a3o%20-%20Dublado%20720p.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/bq5Kj4I.png"" group-title="DOCUMENTÁRIOS COMPLETOS",A HISTORIA DA ELETRICIDADE
+http://archive.org/download/A.Historia.da.Eletricidade-Dublado.720p/A%20hist%c3%b3ria%20da%20Eletricidade%20-%20ep3%20Revela%c3%a7%c3%b5es%20e%20Revolu%c3%a7%c3%b5es%20-%20Dublado%20720p.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/a/EGih9.jpg" group-title="DOCUMENTÁRIOS COMPLETOS",STEPHEN HAWKING E AS CELULAS TRONCO
+http://archive.org/download/Stephen.Hawking.e.as.Celulas-Tronco/C%c3%a9lulas-tronco%20com%20Stephen%20Hawking-PSG.mp4.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/AlszA7q.jpg" group-title="DOCUMENTÁRIOS COMPLETOS",A GUERRA DO VIATNÃ PART.1
+http://ia601509.us.archive.org/15/items/AGuerraDoVietnaParte1/A%20Guerra%20do%20Vietn%C3%A3-%20Parte%201.mp4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/Wc5yYCw.jpg" group-title="DOCUMENTÁRIOS COMPLETOS",A GUERRA DO VIATNÃ PART.2
+http://ia601509.us.archive.org/15/items/AGuerraDoVietnaParte1/Vietn%C3%A3%20Os%20Arquivos%20Perdidos%20Ep.2.mp4
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/6VjnNn" group-title="DOCUMENTÁRIOS COMPLETOS",DENTRO DO SOL
+http://ia601500.us.archive.org/28/items/DentroDoSolDocumentrioDublado/Dentro%20do%20Sol%20Document%C3%A1rio%20Dublado%21.mp4
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+
+
+
+
+
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
