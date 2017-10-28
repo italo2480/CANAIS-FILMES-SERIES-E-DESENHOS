@@ -382,6 +382,10 @@ http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8?
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 
 
+#EXTINF:0 tvg-logo="http://i.imgur.com/TX1jfAh.jpg" group-title="TV ABERTA",TV MACEIO
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8
+
+
 #EXTINF:0 tvg-logo="https://s26.postimg.org/46gplo1ux/75675.jpg" group-title="DESENHOS",TV RA-TIM-BUM
 http://185.152.66.69/live/Brasil/TEST/8247.ts?token=SBUKWRZfRAISUAEDCAZSAAJcVARSCl1dAVtWBgJSUAwDUQZZAA4CWQMUHBdKQ0JcVAg6WgUaXwFWVlYbRBZCXEFoC1xHDUQKBwUCBhsbEk1cCAARWwlQCVxWVgdQUgYVEUcLXEcNCE1cWhwXXE9EXEcLBF8+XABPDQEEFVwNRFVfG0BXC2gCXV1XXlEbDRIIF0lHWhJIRwNGIQ1YEwd3VVJFBxgsWQUWEhoSV1BDQlhBAEcJD00JVUhAAlgTDUVLShVYGiRlRBQSU0hBXFlDUFoLRwlDTBYbSEAIRDkRVEpHRQdZCFIUGgoUABcVFV1YTToGXA9WAFoQCw5ZFUELGwAHUghHG0RVX1hZQVZFb0lcAUcJD00JVRk=
 
@@ -610,7 +614,9 @@ http://192.99.150.31:9137/stream?
 http://192.99.150.31:9125/stream?
 
 
-#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="https://goo.gl/Ew44pr" group-title="RÁDIOS",RADIO MACEIO
+http://media.sgr.globo.com:1935/RadioGlobo/gamsp.sdp/playlist.m3u8	
 
 
 #EXTINF:0 tvg-logo="" group-title="",
@@ -684,157 +690,6 @@ http://ia601500.us.archive.org/28/items/DentroDoSolDocumentrioDublado/Dentro%20d
 
 
 #EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS COMPLETOS",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-
-
-
-
-
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0 tvg-logo="" group-title="",
 
 
 #EXTINF:0 tvg-logo="" group-title="",
