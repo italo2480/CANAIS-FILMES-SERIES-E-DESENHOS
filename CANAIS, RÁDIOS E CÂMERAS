@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="" group-title="",LISTA ATUALIZADA 09:20 27/10/2017
+#EXTINF:0 tvg-logo="" group-title="",LISTA ATUALIZADA 10:15 27/10/2017
 http://0.0.0.0
 
 
@@ -286,10 +286,6 @@ http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://goo.gl/NWvdjo" group-title="TV ABERTA",SBT HD
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w1742879983.m3u8
-
-
 #EXTINF:0 tvg-logo="https://goo.gl/NWvdjo" group-title="TV ABERTA",SBT HD 2
 http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/chunklist.m3u8
 
@@ -422,10 +418,6 @@ http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
 http://video3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Av. Vinte e Três de Maio Trânsito
-https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_287.stream/playlist.m3u8
-
-
 #EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Ubatuba - Praia Enseaba 
 https://d1h84if288zv9w.cloudfront.net/7dias/0be3_204.stream/playlist.m3u8
 
@@ -454,14 +446,6 @@ http://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
 http://stream.livespotting.tv/windit-edge/vv101_720p.stream/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",TEUFELSRAD- PARQUE DE DIVERSÃO
-http://stream.livespotting.tv/windit-edge/LS_3553a_720p.stream/chunklist_w1561253585.m3u8?sa=livespotting.tv
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",LOWENBRAU
-http://stream.livespotting.tv/windit-edge/LS_a74ba_720p.stream/chunklist_w1749211580.m3u8?sa=livespotting.tv
-
-
 #EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",TIME SQUARE
 https://video3.earthcam.com/fecnetwork/9974.flv/chunklist_w1366511516.m3u8
 
@@ -470,27 +454,12 @@ https://video3.earthcam.com/fecnetwork/9974.flv/chunklist_w1366511516.m3u8
 https://d2pchsju5jshrk.cloudfront.net/aovivo/46908c90-52c6-11e7-a161-97a69642a621.stream/chunklist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Avenida Francisco Glicério, n° 641
-https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_132.stream/chunklist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Avenida Hildebrando de Lima, nº 717
-https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_458.stream/chunklist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Pizzaria Massa Fera - Av. Robert Koch, 506 Londrina-PR 
-https://d3qc4pzmpcvwft.cloudfront.net/aovivo/5006b3c0-bfd3-11e6-8fa1-3fab0a7d8591.stream/chunklist.m3u8
-
-
 #EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Focco Brasil - R. Purus, 271 Londrina-PR
 https://d1xatkxshke25.cloudfront.net/aovivo/defb3ed0-a344-11e6-a273-f7cdd904f822.stream/chunklist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Mirante do Paranapanema - SP
 https://d1xwbsse9lcavw.cloudfront.net/aovivo/6b6e5fd0-9604-11e6-ba7e-fb62ba03fc29.stream/chunklist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Avenida Getúlio Vargas, nº 160
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",Ninho das Águias
