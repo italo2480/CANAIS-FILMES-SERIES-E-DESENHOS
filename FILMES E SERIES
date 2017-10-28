@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="" group-title="",LISTA ATUALIZADA 00:00 27/10/2017
+#EXTINF:0 tvg-logo="" group-title="",LISTA ATUALIZADA 09:20 27/10/2017
 http://0.0.0.0
 
 
@@ -2775,6 +2775,10 @@ http://zeus.netcine.tv/httpdelivery/lot/03leg/001-ALTO.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/BnCQQf" group-title="LEGENDS OF TOMORROW", LDA T3|EP2 (LEG)
 http://zeus.netcine.tv/httpdelivery/lot/03leg/02-ALTO.mp4
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/BnCQQf" group-title="LEGENDS OF TOMORROW", LDA T3|EP03 (LEG)
+http://zeus.netcine.tv/httpdelivery/lot/03leg/03-ALTO.mp4
 
 
 
@@ -6385,6 +6389,11 @@ http://zeus.netcine.tv/httpdelivery/tbbt/11leg/03-ALTO.mp4
 http://zeus.netcine.tv/httpdelivery/tbbt/11leg/04-ALTO.mp4
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3ZcWRkqh.jpg" group-title="THE BIG BANG THEORY", TBBT T11|EP05 (LEG)
+http://zeus.netcine.tv/httpdelivery/tbbt/11leg/05-ALTO.mp4
+
+
+
 
 
 ############################ARROW#################################
@@ -6848,6 +6857,11 @@ http://zeus.netcine.tv/httpdelivery/arrow/06leg/01-ALTO.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/PysT8xnh.jpg" group-title="ARROW", ARROW T6|EP02 (LEG)
 http://zeus.netcine.tv/httpdelivery/arrow/06leg/02-ALTO.mp4
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PysT8xnh.jpg" group-title="ARROW", ARROW T6|EP03 (LEG)
+http://zeus.netcine.tv/httpdelivery/arrow/06leg/03-ALTO.mp4
+
 
 
 
