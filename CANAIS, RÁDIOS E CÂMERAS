@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="" group-title="",LISTA ATUALIZADA 10:15 28/10/2017
+#EXTINF:0 tvg-logo="" group-title="",LISTA ATUALIZADA 12:15 28/10/2017
 http://0.0.0.0
 
 
@@ -19,7 +19,7 @@ http://195.181.162.206/live/Brasil/TEST/8331.ts?token=SBUKWRZfRAISAFIACQMHX1AHAF
 #EXTINF:0 tvg-logo="https://goo.gl/FZJkzC" group-title="DESENHOS",ANIME TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
-
+sbt
 #EXTINF:0 tvg-logo="https://goo.gl/rjQu2h" group-title="TV ABERTA",APARECIDA
 http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 
@@ -90,6 +90,10 @@ http://95.141.35.104:8081/look/cartoon8/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://goo.gl/HjiwAC" group-title="TV ABERTA",CULTURA
 http://177.73.84.49/hls/live/live.m3u8
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/HjiwAC" group-title="TV ABERTA",CULTURA BA HD
+http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/HjiwAC" group-title="TV ABERTA",CULTURA ALTERNATIVO
@@ -232,6 +236,10 @@ https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8
 http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
 
 
+#EXTINF:0 tvg-logo="https://goo.gl/J7PHVT" group-title="VARIEDADES",NASA TV 2
+https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8   	
+
+
 #EXTINF:0 tvg-logo="https://goo.gl/N5Kt6q" group-title="VARIEDADES",POLISHOP
 
 
@@ -264,6 +272,10 @@ http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
 http://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8
 
 
+#EXTINF:0 tvg-logo="https://goo.gl/fu82rk" group-title="TV ABERTA",REDE TV PB
+https://v5.ciclano.io:1443/8064/8064/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
 #EXTINF:0 tvg-logo="https://goo.gl/fu82rk" group-title="TV ABERTA",REDE TV RJ
 http://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u8
 
@@ -271,13 +283,12 @@ http://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u8
 #EXTINF:0 tvg-logo="https://goo.gl/fu82rk" group-title="TV ABERTA",REDE TV SP
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 
-
 #EXTINF:0 tvg-logo="https://goo.gl/mvZX97" group-title="TV ABERTA",REDE VIDA
 http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://goo.gl/NWvdjo" group-title="TV ABERTA",SBT
+#EXTINF:0 tvg-logo="https://goo.gl/NWvdjo" group-title="TV ABERTA",SBT HD
 http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/live.m3u8
 
 
@@ -478,22 +489,28 @@ http://stream.africam.com:1935/tm/tm.stream_360p/playlist.m3u8
 https://stream-delta.dropcam.com/nexus_aac/68ebe635c92e46a8922b827199854d25/chunklist_w2061127975.m3u8
 
 
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",BAR SLOPPY JOE'S EM KEY WEST(CAMERA EXTERNA)
+http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8   	
 
 
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",BAR SLOPPY JOE'S EM KEY WEST(CAMERA DO PALCO)
+http://wowza.floridakeysmedia.com:8090/sloppyjoes/sloppyjoes.stream/chunklist_w1380977688.m3u8   	
 
 
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",BAR SLOPPY JOE'S EM KEY WEST(CAMERA INTERIOR)
+http://wowza.floridakeysmedia.com:8090/sloppyjoesbar/sloppyjoesbar.stream/chunklist_w1500397604.m3u8   	
 
 
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",CASA BRANCA AO VIVO
+http://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
 
 
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",CAMERA PANDA AO VIVO
+http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
+#EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",CAMERA PANDA AO VIVO 2
+http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/GHX9NT" group-title="Câmeras Ao Vivo",
